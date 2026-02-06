@@ -1,0 +1,847 @@
+{
+  "nombre": "Prueba de ingreso 2024",
+  "codigo": "ingreso2024b",
+  "area": "todas",
+  "preguntas": [
+    {
+      "question": "La “cuota salud” que se le paga a los prestadores integrales del SNIS está compuesta por:",
+      "options": [
+        {
+          "option": " La cápita y las metas asistenciales.",
+          "isCorrect": true
+        },
+        {
+          "option": " Un monto variable según las patologías de los usuarios.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las metas asistenciales y un monto fijo según el uso del sistema.",
+          "isCorrect": false
+        },
+        {
+          "option": " La cápita y un monto según el número de dependientes (hijos y cónyuges",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En relación a la atención a la salud que brindan los prestadores integrales que integran el SNIS:",
+      "options": [
+        {
+          "option": " Debe ser la que acuerdan los prestadores públicos",
+          "isCorrect": false
+        },
+        {
+          "option": " Debe ser la que acuerdan los prestadores con los usuarios",
+          "isCorrect": false
+        },
+        {
+          "option": " Debe ser la que cada prestador define como necesaria para sus usuarios",
+          "isCorrect": false
+        },
+        {
+          "option": " Debe ser la que está definida en el Plan Integral de Atención en Salud (PIAS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "En términos amplios, la “salud pública” puede entenderse como:",
+      "options": [
+        {
+          "option": " El completo estado de bienestar físico, mental y social.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las circunstancias en que las personas nacen, crecen, trabajan, viven y envejecen.",
+          "isCorrect": false
+        },
+        {
+          "option": " La disciplina científica que aborda las situaciones de salud de las personas en términos individuales.",
+          "isCorrect": false
+        },
+        {
+          "option": " Todo aquello que la sociedad construye colectivamente con la finalidad de mejorar las condiciones de vida de sus pobladores.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "En la década de 1970 Marc Lalonde propuso que el nivel de salud de una comunidad está influido por grandes grupos de circunstancias o determinantes. ¿Cuáles son estos determinantes?",
+      "options": [
+        {
+          "option": " Aquellos determinantes que se relacionan con patrones o formas de comportamiento de las personas.",
+          "isCorrect": false
+        },
+        {
+          "option": " El estilo de vida, la biología humana, el medio ambiente y el sistema de asistencia sanitaria.",
+          "isCorrect": true
+        },
+        {
+          "option": " Las circunstancias en que las personas nacen, crecen, viven y envejecen",
+          "isCorrect": false
+        },
+        {
+          "option": " El estado de bienestar físico, mental y social.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La “Salud Colectiva”, en tanto movimiento, surgió en América Latina en la década de 1970 con la intención de:",
+      "options": [
+        {
+          "option": " Promover el enfoque de “Una salud” en la región.",
+          "isCorrect": false
+        },
+        {
+          "option": " Promover un paradigma renovado de la salud pública.",
+          "isCorrect": true
+        },
+        {
+          "option": " Promover patrones o formas de comportamiento saludable en las personas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Promover la planificación estratégica y la preparación y respuesta ante situaciones de emergencia.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Por qué el agua se clasifica como una molécula polar?",
+      "options": [
+        {
+          "option": " Porque los átomos de hidrógeno que la forma tiene una carga parcial positiva y el de oxígeno una carga parcial negativa",
+          "isCorrect": true
+        },
+        {
+          "option": " Porque el átomo de oxígeno que la forma tiene una carga parcial positiva y los de hidrógeno una carga parcial negativa",
+          "isCorrect": false
+        },
+        {
+          "option": " Porque los átomos de hidrógeno y oxígeno que la componen tienen una carga parcial positiva",
+          "isCorrect": false
+        },
+        {
+          "option": " Porque los átomos de hidrógeno y oxígeno que la componen no poseen carga parcial",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "El agua disuelve los iones de sodio mediante:",
+      "options": [
+        {
+          "option": " La interacción de sus átomos de oxígeno ligeramente negativos con el sodio",
+          "isCorrect": true
+        },
+        {
+          "option": " La interacción de sus átomos de oxígeno ligeramente positivos con el sodio",
+          "isCorrect": false
+        },
+        {
+          "option": " La interacción de sus átomos de hidrógeno ligeramente negativos con el sodio",
+          "isCorrect": false
+        },
+        {
+          "option": " La interacción de sus átomos de hidrógeno ligeramente positivos con el sodio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "El átomo de sodio (Na+) y el átomo de cloruro (Cl-) interaccionan entre ellos por interacciones de tipo:",
+      "options": [
+        {
+          "option": " enlace iónico",
+          "isCorrect": true
+        },
+        {
+          "option": " enlace covalente",
+          "isCorrect": false
+        },
+        {
+          "option": " interacción hidrofóbica",
+          "isCorrect": false
+        },
+        {
+          "option": " enlaces de hidrógeno",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes moléculas NO es una biomolécula?",
+      "options": [
+        {
+          "option": " colesterol",
+          "isCorrect": false
+        },
+        {
+          "option": " proteínas",
+          "isCorrect": false
+        },
+        {
+          "option": " glucógeno",
+          "isCorrect": false
+        },
+        {
+          "option": " cloruro de sodio",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de molécula está constituida por aminoácidos?",
+      "options": [
+        {
+          "option": " Proteínas",
+          "isCorrect": true
+        },
+        {
+          "option": " Fosfolípidos",
+          "isCorrect": false
+        },
+        {
+          "option": " Polisacáridos",
+          "isCorrect": false
+        },
+        {
+          "option": " Ácidos nucleicos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes estructuras es la unidad básica del ácido desoxirribonucleico?",
+      "options": [
+        {
+          "option": " monosacárido",
+          "isCorrect": false
+        },
+        {
+          "option": " aminoácido",
+          "isCorrect": false
+        },
+        {
+          "option": " nucleótido",
+          "isCorrect": true
+        },
+        {
+          "option": " glicerol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Los ácidos fuertes son aquellos que:",
+      "options": [
+        {
+          "option": " liberan todos sus H+ en la solución",
+          "isCorrect": true
+        },
+        {
+          "option": " liberan todos sus OH- en la solución",
+          "isCorrect": false
+        },
+        {
+          "option": " liberan cantidades iguales de H+ y de OH- en la solución",
+          "isCorrect": false
+        },
+        {
+          "option": " no se disocian en soluciones acuosas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es el pH de una solución de cloruro de sodio (NaCl) 0,001 M?",
+      "options": [
+        {
+          "option": " 3,0",
+          "isCorrect": false
+        },
+        {
+          "option": " 7,0",
+          "isCorrect": true
+        },
+        {
+          "option": " 8,0",
+          "isCorrect": false
+        },
+        {
+          "option": " 10,4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Qué concentración, expresada en partes por millón (ppm) se obtiene mezclando 0,5 mg de flúor en 2 litros de solución? Dato: ppm corresponde a mg de soluto/L",
+      "options": [
+        {
+          "option": " 0,25 ppm",
+          "isCorrect": true
+        },
+        {
+          "option": " 0,5 ppm",
+          "isCorrect": false
+        },
+        {
+          "option": " 1 ppm",
+          "isCorrect": false
+        },
+        {
+          "option": " 2 ppm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuántos gramos de H2SO4 hay en 10 pesos equivalentes (peqg)? Dato: masa molar H2SO4 = 98 g/mol",
+      "options": [
+        {
+          "option": " 10 g",
+          "isCorrect": false
+        },
+        {
+          "option": " 98g",
+          "isCorrect": false
+        },
+        {
+          "option": " 200 g",
+          "isCorrect": false
+        },
+        {
+          "option": " 490 g",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo se puede expresar la concentración de un soluto?",
+      "options": [
+        {
+          "option": " en litros",
+          "isCorrect": false
+        },
+        {
+          "option": " en gramos",
+          "isCorrect": false
+        },
+        {
+          "option": " en gramos por litro",
+          "isCorrect": true
+        },
+        {
+          "option": " en gramos por moles",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Indique cuál es la molaridad de la fructosa en una solución que se prepara disolviendo 360 g de fructosa en un volumen final de 1 litro. Dato: masa molar Fructosa = 180 g/mol",
+      "options": [
+        {
+          "option": " 0,5 M",
+          "isCorrect": false
+        },
+        {
+          "option": " 1,0 M",
+          "isCorrect": false
+        },
+        {
+          "option": " 1,5 M",
+          "isCorrect": false
+        },
+        {
+          "option": " 2,0 M",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "¿En qué volumen de solución se deben disolver 5 gramos de KCl para obtener una solución 10% m/v (porcentaje masa soluto/volumen solución)?",
+      "options": [
+        {
+          "option": " 50 ml",
+          "isCorrect": true
+        },
+        {
+          "option": " 100 ml",
+          "isCorrect": false
+        },
+        {
+          "option": " 500 ml",
+          "isCorrect": false
+        },
+        {
+          "option": " 1000 ml",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Los anticuerpos:",
+      "options": [
+        {
+          "option": " Son inespecíficos",
+          "isCorrect": false
+        },
+        {
+          "option": " Se clasifican en dos tipos: IgM e IgG",
+          "isCorrect": false
+        },
+        {
+          "option": " Son secretados por linfocitos B activados",
+          "isCorrect": true
+        },
+        {
+          "option": " Se encuentran a nivel de los tejidos, pero no en la circulación",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Por qué tipo de célula está mediada la respuesta inmune específica celular?",
+      "options": [
+        {
+          "option": " Neutrófilos",
+          "isCorrect": false
+        },
+        {
+          "option": " Linfocitos B",
+          "isCorrect": false
+        },
+        {
+          "option": " Linfocitos T",
+          "isCorrect": true
+        },
+        {
+          "option": " Macrófagos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de estos tipos celulares se pueden encontrar en los testículos?",
+      "options": [
+        {
+          "option": " Microglía",
+          "isCorrect": false
+        },
+        {
+          "option": " Células ciliadas",
+          "isCorrect": false
+        },
+        {
+          "option": " Células de Sertoli",
+          "isCorrect": true
+        },
+        {
+          "option": " Células de Paneth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿El pico de qué hormona a mitad del ciclo sexual femenino provoca la ovulación?",
+      "options": [
+        {
+          "option": " Cortisol",
+          "isCorrect": false
+        },
+        {
+          "option": " Estradiol",
+          "isCorrect": false
+        },
+        {
+          "option": " Hormona luteinizante (LH",
+          "isCorrect": true
+        },
+        {
+          "option": " Hormona antidiurética (ADH",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Indique en cuál de los siguientes sectores del tracto digestivo se encuentran el fundus, el cardias y el píloro:",
+      "options": [
+        {
+          "option": " esófago",
+          "isCorrect": false
+        },
+        {
+          "option": " estómago",
+          "isCorrect": true
+        },
+        {
+          "option": " orofaringe",
+          "isCorrect": false
+        },
+        {
+          "option": " intestino delgado",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Qué enzima hidrolítica digiere proteínas en el estómago?",
+      "options": [
+        {
+          "option": " Lipasa",
+          "isCorrect": false
+        },
+        {
+          "option": " Pepsina",
+          "isCorrect": true
+        },
+        {
+          "option": " Quimotripsina",
+          "isCorrect": false
+        },
+        {
+          "option": " Ácido clorhídrico (HCl",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Indique cuál de las siguientes células se encuentra en el hígado:",
+      "options": [
+        {
+          "option": " Glía.",
+          "isCorrect": false
+        },
+        {
+          "option": " Miocito.",
+          "isCorrect": false
+        },
+        {
+          "option": " Hepatocito.",
+          "isCorrect": true
+        },
+        {
+          "option": " Células de Purkinje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "El revestimiento interior del tracto gastrointestinal, que está en contacto con el contenido luminal es la:",
+      "options": [
+        {
+          "option": " Serosa",
+          "isCorrect": false
+        },
+        {
+          "option": " Mucosa",
+          "isCorrect": true
+        },
+        {
+          "option": " Muscular",
+          "isCorrect": false
+        },
+        {
+          "option": " Submucosa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Las glándulas suprarrenales secretan:",
+      "options": [
+        {
+          "option": " Cortisol.",
+          "isCorrect": true
+        },
+        {
+          "option": " Glucagón.",
+          "isCorrect": false
+        },
+        {
+          "option": " Prolactina.",
+          "isCorrect": false
+        },
+        {
+          "option": " Hormona estimulante de la tiroides (TSH",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Indique cómo se denomina el tejido muscular cardíaco:",
+      "options": [
+        {
+          "option": " epicardio",
+          "isCorrect": false
+        },
+        {
+          "option": " miocardio",
+          "isCorrect": true
+        },
+        {
+          "option": " pericardio",
+          "isCorrect": false
+        },
+        {
+          "option": " endocardio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Indique cómo se denomina la membrana que rodea y protege el corazón:",
+      "options": [
+        {
+          "option": " epicardio",
+          "isCorrect": false
+        },
+        {
+          "option": " miocardio",
+          "isCorrect": false
+        },
+        {
+          "option": " pericardio",
+          "isCorrect": true
+        },
+        {
+          "option": " endocardio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La sangre oxigenada llega desde los pulmones e ingresa al corazón por:",
+      "options": [
+        {
+          "option": " la aurícula izquierda",
+          "isCorrect": true
+        },
+        {
+          "option": " el ventrículo izquierdo",
+          "isCorrect": false
+        },
+        {
+          "option": " la aurícula derecha",
+          "isCorrect": false
+        },
+        {
+          "option": " el ventrículo derecho",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al ciclo cardíaco indique la opción correcta:",
+      "options": [
+        {
+          "option": " La sangre se eyecta hacia las venas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Durante la sístole el músculo cardíaco se relaja.",
+          "isCorrect": false
+        },
+        {
+          "option": " El ventrículo se vacía de sangre durante la diástole.",
+          "isCorrect": false
+        },
+        {
+          "option": " Durante la sístole se eyecta la sangre hacia los tejidos.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "La presión sistólica normal es:",
+      "options": [
+        {
+          "option": " mayor a 170 milímetros de mercurio.",
+          "isCorrect": false
+        },
+        {
+          "option": " mayor a 220 milímetros de mercurio.",
+          "isCorrect": false
+        },
+        {
+          "option": " menor a 110 milímetros de mercurio",
+          "isCorrect": true
+        },
+        {
+          "option": " menor a 11 milímetros de mercurio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿A qué tipo de sistema pertenecen los astrocitos?",
+      "options": [
+        {
+          "option": " Sistema renal",
+          "isCorrect": false
+        },
+        {
+          "option": " Sistema nervioso",
+          "isCorrect": true
+        },
+        {
+          "option": " Sistema cardíaco",
+          "isCorrect": false
+        },
+        {
+          "option": " Sistema respiratorio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de estos tipos celulares forma la vaina de mielina en el sistema nervioso periférico?",
+      "options": [
+        {
+          "option": " Neurona.",
+          "isCorrect": false
+        },
+        {
+          "option": " Célula endotelial.",
+          "isCorrect": false
+        },
+        {
+          "option": " Astrocitos fibrosos.",
+          "isCorrect": false
+        },
+        {
+          "option": " Células de Schwann.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Indique cuál de las siguientes descripciones del mecanismo de acción de acetilcolina es correcta:",
+      "options": [
+        {
+          "option": " la acetilcolina es liberada en vesículas que pasan a la sangre",
+          "isCorrect": false
+        },
+        {
+          "option": " la acetilcolina es liberada a través de canales que se abren en la membrana",
+          "isCorrect": false
+        },
+        {
+          "option": " la acetilcolina es incorporada mediante endocitosis en la neurona pre-sináptica",
+          "isCorrect": false
+        },
+        {
+          "option": " la acetilcolina es almacenada en vesículas sinápticas y liberada en la hendidura sináptica",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "La mayor producción de ATP en la célula ocurre en:",
+      "options": [
+        {
+          "option": " El ciclo de Krebs en el retículo endoplásmico",
+          "isCorrect": false
+        },
+        {
+          "option": " La cadena respiratoria en la mitocondria",
+          "isCorrect": true
+        },
+        {
+          "option": " La beta-oxidación en el citosol",
+          "isCorrect": false
+        },
+        {
+          "option": " La glucólisis en el núcleo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En condiciones aeróbicas, el piruvato, producto del catabolismo de la glucosa tendrá el siguiente destino:",
+      "options": [
+        {
+          "option": " Convertirse en Acetil-CoA para ingresar al ciclo de Krebs",
+          "isCorrect": true
+        },
+        {
+          "option": " Convertirse en CO2 para ingresar a la cadena respiratoria",
+          "isCorrect": false
+        },
+        {
+          "option": " Convertirse en lactato para continuar la respiración celular",
+          "isCorrect": false
+        },
+        {
+          "option": " Convertirse en ADP para ingresar a la ruta de la gluconeogénesis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Durante la respiración mitocondrial los electrones circulan desde el NADH hasta el oxígeno. Indique cómo es el estado de oxidación de cada uno al finalizar el proceso:",
+      "options": [
+        {
+          "option": " el NADH se reduce y el oxígeno se reduce",
+          "isCorrect": false
+        },
+        {
+          "option": " el NADH se oxida y el oxígeno se oxida",
+          "isCorrect": false
+        },
+        {
+          "option": " el NADH se reduce y el oxígeno se oxida",
+          "isCorrect": false
+        },
+        {
+          "option": " el NADH se oxida y el oxígeno se reduce",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Indique la afirmación correcta referida a las hormonas y su mecanismo de acción:",
+      "options": [
+        {
+          "option": " Son enzimas que catalizan reacciones.",
+          "isCorrect": false
+        },
+        {
+          "option": " Se liberan a la sangre y circulan en ella.",
+          "isCorrect": true
+        },
+        {
+          "option": " No presentan especificidad de célula diana.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las glándulas que las producen tienen conducto excretor.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Respecto al mecanismo de acción de una hormona liposoluble:",
+      "options": [
+        {
+          "option": " Se dirige a la célula blanco unida a una glicoproteína y ejerce su efecto uniéndose a una receptor que sintetiza ATP",
+          "isCorrect": false
+        },
+        {
+          "option": " Se dirige a la célula blanco en forma libre y se une a un receptor específico presente en la membrana de la célula blanco",
+          "isCorrect": false
+        },
+        {
+          "option": " Se dirige a la célula blanco unido a un fosfolípido de membrana y se une a los ribosomas presentes en el citosol de la célula blanco",
+          "isCorrect": false
+        },
+        {
+          "option": " Se dirige a la célula blanco por la sangre unida a un transportador e ingresa a la célula para unirse a su receptor específico en el citoplasma o núcleo celular",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}
