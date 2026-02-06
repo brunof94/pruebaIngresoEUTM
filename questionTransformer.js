@@ -1,4 +1,4 @@
-const questionPath = './pruebas/txt/[ingreso2023a]Prueba de Ingreso 2023.txt';
+const questionPath = './pruebas/txt/[ingreso2020b]Prueba de ingreso 2020.txt';
 const fs = require('fs');
 // Lee el contenido del archivo
 const content = fs.readFileSync(questionPath, 'utf-8').split('\n');
