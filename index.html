@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pruebas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Pruebas</h1>
+    <div id="pruebasList" style="margin:10px 0;"></div>
+    <div id="currentTest" style="margin:10px 0; font-weight:bold;"></div>
+    <div id="rangeSelector" style="margin:10px 0; display:none;">
+      <label>Desde: <input type="number" id="startIdx" min="1" value="1" style="width:60px;"></label>
+      <label>Hasta: <input type="number" id="endIdx" min="1" value="1" style="width:60px;"></label>
+      <label style="margin-left:20px;"><input type="checkbox" id="randomOrder"/>Opciones desordenadas</label>
+      <button id="startQuizBtn">Comenzar desde aquí</button>
+    </div>
+    <button id="stopBtn" style="display:none; margin-bottom:10px;">Parar prueba</button>
+    <div id="quiz"></div>
+    <div id="score"></div>
+    <button id="restartBtn" style="display:none;">Reiniciar</button>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
