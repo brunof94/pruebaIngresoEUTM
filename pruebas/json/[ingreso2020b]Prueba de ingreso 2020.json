@@ -1,0 +1,847 @@
+{
+  "nombre": "Prueba de ingreso 2020",
+  "codigo": "ingreso2020b",
+  "area": "todas",
+  "preguntas": [
+    {
+      "question": "En el sistema nervioso central, el aspecto de la sustancia blanca se debe a la presencia de:",
+      "options": [
+        {
+          "option": " mielina",
+          "isCorrect": true
+        },
+        {
+          "option": " axones",
+          "isCorrect": false
+        },
+        {
+          "option": " astrocitos",
+          "isCorrect": false
+        },
+        {
+          "option": " vasos sanguíneos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Al comienzo de una inspiración las presiones que se registran en el aparato respiratorio son:",
+      "options": [
+        {
+          "option": " la presión intrapleural es positiva.",
+          "isCorrect": false
+        },
+        {
+          "option": " la presión a nivel alveolar es negativa.",
+          "isCorrect": true
+        },
+        {
+          "option": " la presión intrapleural es igual a la atmosférica.",
+          "isCorrect": false
+        },
+        {
+          "option": " la presión en las vías aéreas superiores es mayor a la atmosférica.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Las células que se localizan en las lagunas como células principales dentro del tejido óseo maduro se denominan:",
+      "options": [
+        {
+          "option": " osteocitos",
+          "isCorrect": true
+        },
+        {
+          "option": " osteoclastos",
+          "isCorrect": false
+        },
+        {
+          "option": " osteoblastos",
+          "isCorrect": false
+        },
+        {
+          "option": " osteoplastos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En cuanto al manejo renal de glucosa a nivel del túbulo, sucede lo siguiente:",
+      "options": [
+        {
+          "option": " En condiciones normales se excreta una fracción fija.",
+          "isCorrect": false
+        },
+        {
+          "option": " Se reabsorbe una parte a nivel de la nefrona distal.",
+          "isCorrect": false
+        },
+        {
+          "option": " Se reabsorbe por completo en el túbulo proximal.",
+          "isCorrect": true
+        },
+        {
+          "option": " Su filtración renal es despreciable.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En relación a los gametos:",
+      "options": [
+        {
+          "option": " Contienen 46 cromosomas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Se producen por una única división celular.",
+          "isCorrect": false
+        },
+        {
+          "option": " Contienen la mitad de ADN que una célula somática.",
+          "isCorrect": true
+        },
+        {
+          "option": " Todos los gametos que se forman en un individuo son genéticamente idénticos.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Cuando los niveles de ADH (hormona antidiurética) en el plasma son elevados, la orina será:",
+      "options": [
+        {
+          "option": " muy diluida.",
+          "isCorrect": false
+        },
+        {
+          "option": " rica en glucosa.",
+          "isCorrect": false
+        },
+        {
+          "option": " rica en proteínas.",
+          "isCorrect": false
+        },
+        {
+          "option": " muy concentrada.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de estas propiedades es correcta respecto a las sinapsis?",
+      "options": [
+        {
+          "option": " La sinapsis eléctrica es una vía de baja resistencia.",
+          "isCorrect": true
+        },
+        {
+          "option": " En la sinapsis eléctrica es imprescindible la liberación de un neurotransmisor.",
+          "isCorrect": false
+        },
+        {
+          "option": " La sinapsis química permite el pasaje de iones y pequeñas moléculas entre ambas neuronas.",
+          "isCorrect": false
+        },
+        {
+          "option": " En la sinapsis eléctrica la información es transmitida con una mayor latencia que en la sinapsis química.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La siguiente característica corresponde al aparato circulatorio:",
+      "options": [
+        {
+          "option": " Las arterias son vasos con gran capacitancia.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las venas son los vasos de mayor resistencia.",
+          "isCorrect": false
+        },
+        {
+          "option": " La velocidad de conducción de la sangre a nivel de los capilares es máxima.",
+          "isCorrect": false
+        },
+        {
+          "option": " A mayor superficie de sección total de los vasos, menor velocidad de conducción de la sangre.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Sobre el polisacárido glucógeno:",
+      "options": [
+        {
+          "option": " Está formado por unidades de lactosa unidas por enlace peptídico.",
+          "isCorrect": false
+        },
+        {
+          "option": " Está formado por unidades de galactosa unidas por enlace peptídico.",
+          "isCorrect": false
+        },
+        {
+          "option": " Está formado por unidades de glucosa unidas por enlace glicosídico.",
+          "isCorrect": true
+        },
+        {
+          "option": " Está formado por unidades de galactosa y glucosa unidas por enlace glicosídico.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a la contracción del músculo esquelético:",
+      "options": [
+        {
+          "option": " El calcio que activa a los miofilamentos proviene del exterior celular.",
+          "isCorrect": false
+        },
+        {
+          "option": " La aplicación de un estímulo breve supraumbral desencadena una sacudida simple.",
+          "isCorrect": true
+        },
+        {
+          "option": " Durante una contracción tetánica la concentración de calcio intracelular es menor que durante una sacudida simple.",
+          "isCorrect": false
+        },
+        {
+          "option": " El grado de superposición entre los filamentos delgados y gruesos es independiente del desarrollo de fuerza por parte del músculo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre la medula espinal:",
+      "options": [
+        {
+          "option": " El diámetro transversal es regular en toda su extensión.",
+          "isCorrect": false
+        },
+        {
+          "option": " En los niños se extiende hasta la quinta vértebra lumbar.",
+          "isCorrect": false
+        },
+        {
+          "option": " En los adultos se extiende hasta la segunda vértebra lumbar.",
+          "isCorrect": true
+        },
+        {
+          "option": " La medula espinal termina en el filun terminal que tiene una medida de 42 cm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a la secreción gástrica:",
+      "options": [
+        {
+          "option": " en la fase gástrica, los reflejos locales la inhiben",
+          "isCorrect": false
+        },
+        {
+          "option": " se estimula durante la fase intestinal",
+          "isCorrect": false
+        },
+        {
+          "option": " se inicia durante la fase cefálica",
+          "isCorrect": true
+        },
+        {
+          "option": " es inhibida por la gastrina",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "El sueño no REM o lento se puede dividir en:",
+      "options": [
+        {
+          "option": " 2 fases.",
+          "isCorrect": false
+        },
+        {
+          "option": " 3 fases.",
+          "isCorrect": false
+        },
+        {
+          "option": " 4 fases.",
+          "isCorrect": true
+        },
+        {
+          "option": " 5 fases.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre el proceso de digestión y absorción de glúcidos y lípidos:",
+      "options": [
+        {
+          "option": " La digestión de triglicéridos se lleva a cabo por acción de las amilasas gástrica y pancreática junto con las disacaridasas en la superficie del enterocito.",
+          "isCorrect": false
+        },
+        {
+          "option": " El almidón y glucógeno se digieren por acción de de las amilasas salival y pancreática y de las disacaridasas en la superficie del enterocito.",
+          "isCorrect": true
+        },
+        {
+          "option": " La absorción de ácidos grasos se lleva a cabo a través de proteínas transportadoras de difusión facilitada.",
+          "isCorrect": false
+        },
+        {
+          "option": " La absorción de glucosa y galactosa se da por un proceso de difusión simple.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre la función inmunitaria:",
+      "options": [
+        {
+          "option": " La inmunidad innata esta mediada por anticuerpos",
+          "isCorrect": false
+        },
+        {
+          "option": " Los linfocitos T y B participan activamente en la inmunidad innata",
+          "isCorrect": false
+        },
+        {
+          "option": " Los linfocitos B maduran en el timo y los linfocitos T en la médula ósea",
+          "isCorrect": false
+        },
+        {
+          "option": " Los linfocitos T reconocen por medio de su TCR antígenos no propios, para luego eliminar las células infectadas",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al potencial de acción del nervio:",
+      "options": [
+        {
+          "option": " Su duración es de 100 ms.",
+          "isCorrect": false
+        },
+        {
+          "option": " En un potencial de acción la repolarización precede en el tiempo a la despolarización.",
+          "isCorrect": false
+        },
+        {
+          "option": " La despolarización es independiente del movimiento de sodio a través de la membrana.",
+          "isCorrect": false
+        },
+        {
+          "option": " La repolarización es consecuencia del movimiento del ion potasio hacia el exterior celular.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Los nervios raquídeos resultan de la unión de 2 raíces, emergiendo del conducto raquídeo por los agujeros de conjunción. Según el enunciado marque la verdadera",
+      "options": [
+        {
+          "option": " Los nervios raquídeos emiten ramas anteriores que forman los plexos.",
+          "isCorrect": false
+        },
+        {
+          "option": " Los nervios raquídeos se forman por la unión de la raíz motora y la sensitiva.",
+          "isCorrect": true
+        },
+        {
+          "option": " Los nervios de la cola de caballo emergen todos por los agujeros de conjunción sacros.",
+          "isCorrect": false
+        },
+        {
+          "option": " El agujero de conjunción por donde emergen se forma por la superposición de los agujeros vertebrales.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En cuanto a la respuesta inmune:",
+      "options": [
+        {
+          "option": " La inmunidad específica posee una respuesta rápida",
+          "isCorrect": false
+        },
+        {
+          "option": " El complemento es un elemento fundamental de inmunidad adaptativa",
+          "isCorrect": false
+        },
+        {
+          "option": " La inmunidad específica requiere contacto previo con el agente agresor y tiene memoria",
+          "isCorrect": true
+        },
+        {
+          "option": " Los linfocitos T CD4 Citotòxicos son linfocitos que colaboran en la producción de anticuerpos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a los volúmenes y capacidades pulmonares:",
+      "options": [
+        {
+          "option": " La capacidad pulmonar total es el volumen de aire que se desplaza entre la inspiración máxima y la espiración máxima.",
+          "isCorrect": false
+        },
+        {
+          "option": " La capacidad vital corresponde a la diferencia entre la capacidad pulmonar total y el volumen residual.",
+          "isCorrect": true
+        },
+        {
+          "option": " El volumen residual es el volumen de aire que queda en los pulmones luego de una inspiración máxima.",
+          "isCorrect": false
+        },
+        {
+          "option": " El volumen corriente es el volumen residual más el volumen de reserva espiratoria.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En qué etapa de la segunda meiosis se encuentra el ovocito secundario al momento de la ovulación:",
+      "options": [
+        {
+          "option": " Profase",
+          "isCorrect": false
+        },
+        {
+          "option": " Anafase",
+          "isCorrect": false
+        },
+        {
+          "option": " Telofase",
+          "isCorrect": false
+        },
+        {
+          "option": " Metafase",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "La glucólisis es una vía central del metabolismo. Sobre dicha vía:",
+      "options": [
+        {
+          "option": " Es una vía anabólica que transcurre en la matriz mitocondrial.",
+          "isCorrect": false
+        },
+        {
+          "option": " En esta vía se degrada una molécula de lactosa a 2 moléculas de acetil CoA",
+          "isCorrect": false
+        },
+        {
+          "option": " El rendimiento neto son dos moléculas de piruvato, 2 moléculas de ATP y 2 de NADH",
+          "isCorrect": true
+        },
+        {
+          "option": " El rendimiento neto son dos moléculas de acetil CoA, 2 moléculas de GTP y 2 de FADH2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo se hidrolizan las proteínas de la dieta?",
+      "options": [
+        {
+          "option": " Por la acción de las α amilasas salivales y pancreaticas, que digieren las proteínas a sus aminoácidos constituyentes.",
+          "isCorrect": false
+        },
+        {
+          "option": " Por la exposición al pH ácido del estómago, que es suficiente para generar la ruptura de los enlaces peptídicos entre residuos aminoacídicos.",
+          "isCorrect": false
+        },
+        {
+          "option": " Por la acción combinada de la α amilasa pancreática y las lipasas salival y gástrica, que digieren las proteínas a sus aminoácidos constituyentes.",
+          "isCorrect": false
+        },
+        {
+          "option": " Por la acción de la pepsina gástrica, las proteasas pancréaticas (tripsina, quimiotripsina, carboxipeptidasa y elastasa",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "En el ECG (electrocardiograma) el complejo QRS corresponde a:",
+      "options": [
+        {
+          "option": " la repolarización auricular.",
+          "isCorrect": false
+        },
+        {
+          "option": " la repolarización ventricular.",
+          "isCorrect": false
+        },
+        {
+          "option": " la despolarización auricular.",
+          "isCorrect": false
+        },
+        {
+          "option": " la despolarización ventricular.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Sobre el aparato reproductor femenino:",
+      "options": [
+        {
+          "option": " La pared del útero está formada desde afuera hacia adentro por endometrio, miometrio y serosa o perimetrio.",
+          "isCorrect": false
+        },
+        {
+          "option": " El útero es un órgano muscular de gran capacidad elástica, presenta un fondo, cuerpo y cuello o cérvix.",
+          "isCorrect": true
+        },
+        {
+          "option": " Los ovarios son glándulas de secreción endocrina y exocrina, originan óvulos y esteroides.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las trompas uterinas por su pabellón y fimbrias se relacionan con el útero.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En el mecanismo de la contracción muscular:",
+      "options": [
+        {
+          "option": " la unidad contráctil muscular es la miofibrilla.",
+          "isCorrect": false
+        },
+        {
+          "option": " los filamentos finos se deslizan sobre los gruesos.",
+          "isCorrect": true
+        },
+        {
+          "option": " la unión actina-miosina no requiere gasto de energía (ATP",
+          "isCorrect": false
+        },
+        {
+          "option": " el neurotrasmisor que interviene en la liberación del Ca++ es la noradrenalina.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿En qué estructuras del riñón ocurre la filtración desde el plasma sanguíneo?",
+      "options": [
+        {
+          "option": " en los corpúsculos renales",
+          "isCorrect": true
+        },
+        {
+          "option": " en los túbulos proximales",
+          "isCorrect": false
+        },
+        {
+          "option": " en los túbulos colectores",
+          "isCorrect": false
+        },
+        {
+          "option": " en los túbulos distales",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Durante el potencial de acción sucede uno de los siguientes eventos:",
+      "options": [
+        {
+          "option": " entrada masiva de Na+ al interior de la célula.",
+          "isCorrect": true
+        },
+        {
+          "option": " entrada masiva de K+ al interior de la célula.",
+          "isCorrect": false
+        },
+        {
+          "option": " salida masiva de Ca++desde la célula.",
+          "isCorrect": false
+        },
+        {
+          "option": " salida masiva de Na+ desde la célula.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre la estructura proteica:",
+      "options": [
+        {
+          "option": " La estructura primaria está dada por la secuencia de residuos de aminoácidos unidos entre sí por interacciones hidrofóbicas",
+          "isCorrect": false
+        },
+        {
+          "option": " La estructura secundaria es la disposición en el espacio de una única cadena polipeptídica y define la función de la proteína",
+          "isCorrect": false
+        },
+        {
+          "option": " La hélice alfa y hoja Beta son los patrones de estructura terciaria más característicos",
+          "isCorrect": false
+        },
+        {
+          "option": " La estructura cuaternaria es la conformación tridimensional que adoptan dos o más subunidades polipeptídicas",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "La hemostasis es una secuencia de reacciones que detienen el sangrado luego una herida. Sobre el proceso de coagulación indique la opción correcta:",
+      "options": [
+        {
+          "option": " La vía extrínseca e intrínseca llevan a la activación de la protrombinasa, enzima que convierte la protrombina en trombina.",
+          "isCorrect": true
+        },
+        {
+          "option": " La vía extrínseca e intrínseca se activan por el mismo mecanismo: la exposición del factor tisular extravascular.",
+          "isCorrect": false
+        },
+        {
+          "option": " La trombina convierte el plasminógeno en plasmina, lo que digiere el coagulo sanguíneo.",
+          "isCorrect": false
+        },
+        {
+          "option": " Los factores de coagulación se sintetizan activos.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En relación a los grandes vasos:",
+      "options": [
+        {
+          "option": " La aorta descendente en su porción abdominal se extiende desde el orificio del diafragma hasta aproximadamente la cuarta vértebra lumbar, donde se divide en las 4 arterias iliacas",
+          "isCorrect": false
+        },
+        {
+          "option": " La vena cava inferior conduce a la aurícula izquierda la sangre de la parte inferior del cuerpo, en especial de los miembros inferiores, de los órganos intra-abdominales y pelvianos",
+          "isCorrect": false
+        },
+        {
+          "option": " La vena cava superior lleva a la aurícula derecha , la sangre de la cabeza, del cuello, de los miembros superiores y de la pared torácica",
+          "isCorrect": true
+        },
+        {
+          "option": " El cayado de la aorta se extiende desde la base del ventrículo derecho hasta aproximadamente la cuarta vertebra torácica",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "El epitelio de los alvéolos pulmonares es:",
+      "options": [
+        {
+          "option": " simple plano",
+          "isCorrect": true
+        },
+        {
+          "option": " simple cúbico",
+          "isCorrect": false
+        },
+        {
+          "option": " simple cilíndrico",
+          "isCorrect": false
+        },
+        {
+          "option": " pseudoestratificado cilíndrico",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En el hígado, las células epiteliales hepáticas (hepatocitos) se organizan en láminas y cordones que conforman lobulillos con una vena en el centro y espacios portales en la periferia. Dentro de estos lobulillos clásicos, además de los hepatocitos podemos encontrar:",
+      "options": [
+        {
+          "option": " ramas de la arteria hepática",
+          "isCorrect": false
+        },
+        {
+          "option": " ramas de la vena porta",
+          "isCorrect": false
+        },
+        {
+          "option": " sinusoides hepáticos",
+          "isCorrect": true
+        },
+        {
+          "option": " conductos biliares",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En relación a los huesos y las articulaciones:",
+      "options": [
+        {
+          "option": " La escapula u omóplato es un hueso corto y participa de la articulación del hombro",
+          "isCorrect": false
+        },
+        {
+          "option": " El miembro superior a través de la articulación del hombro tiene movimientos en los 3 ejes del espacio",
+          "isCorrect": true
+        },
+        {
+          "option": " El fémur es un hueso largo, que no presenta inserciones musculares pero forma el esqueleto del muslo",
+          "isCorrect": false
+        },
+        {
+          "option": " La pelvis ósea está constituida por dos grandes huesos articulados entre sí por delante y por detrás, llamados huesos coxales",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Un tejido que tiene varios tipos de células separadas por gran cantidad de matriz extracelular y que tiene vasos sanguíneos corresponde a un tejido de tipo:",
+      "options": [
+        {
+          "option": " conjuntivo",
+          "isCorrect": true
+        },
+        {
+          "option": " muscular",
+          "isCorrect": false
+        },
+        {
+          "option": " nervioso",
+          "isCorrect": false
+        },
+        {
+          "option": " epitelial",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a los glóbulos blancos:",
+      "options": [
+        {
+          "option": " tienen forma de disco bicóncavo.",
+          "isCorrect": false
+        },
+        {
+          "option": " solo algunos subtipos presentan núcleo.",
+          "isCorrect": false
+        },
+        {
+          "option": " participan en la coagulación de la sangre.",
+          "isCorrect": false
+        },
+        {
+          "option": " salen de los vasos hacia el tejido para cumplir sus funciones.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "¿Qué órgano elige al Rector?",
+      "options": [
+        {
+          "option": " Consejo Directivo Central",
+          "isCorrect": false
+        },
+        {
+          "option": " Asamblea General del Claustro",
+          "isCorrect": true
+        },
+        {
+          "option": " Asamblea del Claustro de Facultad",
+          "isCorrect": false
+        },
+        {
+          "option": " Comisión Programática Presupuestal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Quién es el actual rector de la Universidad de la República?",
+      "options": [
+        {
+          "option": " Rodrigo Arocena",
+          "isCorrect": false
+        },
+        {
+          "option": " Roberto Markarian",
+          "isCorrect": false
+        },
+        {
+          "option": " Rafael Guarga",
+          "isCorrect": false
+        },
+        {
+          "option": " Rodrigo Arim",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "¿Quién designa los representantes de los órdenes graduados, docentes y estudiantes del CDC?",
+      "options": [
+        {
+          "option": " Consejo Directivo Central",
+          "isCorrect": false
+        },
+        {
+          "option": " Asamblea General del Claustro",
+          "isCorrect": true
+        },
+        {
+          "option": " Asamblea de Claustro de Facultad",
+          "isCorrect": false
+        },
+        {
+          "option": " Comisión Programática presupuestal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Según la Ley Orgánica de 1958: ¿cuál de estos organismos fue consagrado por la Constitución como órgano “rector” de la Universidad",
+      "options": [
+        {
+          "option": " Consejo Directivo Central",
+          "isCorrect": true
+        },
+        {
+          "option": " Consejo Delegado Académico",
+          "isCorrect": false
+        },
+        {
+          "option": " Asamblea General del Claustro",
+          "isCorrect": false
+        },
+        {
+          "option": " Comisión Programática Presupuestal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo se llama el actual decano de Facultad de Medicina?",
+      "options": [
+        {
+          "option": " Luis Leopold",
+          "isCorrect": false
+        },
+        {
+          "option": " Rodrigo Arim",
+          "isCorrect": false
+        },
+        {
+          "option": " Miguel Martínez",
+          "isCorrect": true
+        },
+        {
+          "option": " Fernando Tomassina",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
