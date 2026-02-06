@@ -1,0 +1,847 @@
+{
+  "nombre": "Prueba de ingreso 2022",
+  "codigo": "ingreso2022b",
+  "area": "todas",
+  "preguntas": [
+    {
+      "question": "En los ribosomas celulares transcurre el siguiente proceso fundamental para la regulación del ciclo celular:",
+      "options": [
+        {
+          "option": " Traducción del ADN",
+          "isCorrect": false
+        },
+        {
+          "option": " Transcripción del ADN",
+          "isCorrect": false
+        },
+        {
+          "option": " Replicación del ADN",
+          "isCorrect": false
+        },
+        {
+          "option": " Síntesis de proteínas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre las proteínas:",
+      "options": [
+        {
+          "option": " Son polímeros de L-alfa aminoácidos unidos mediante enlaces peptídicos.",
+          "isCorrect": false
+        },
+        {
+          "option": " Todas las proteínas se forman con 5 aminoácidos y tienen codones específicos en el código genético.",
+          "isCorrect": false
+        },
+        {
+          "option": " Los enlaces peptídicos son enlaces de naturaleza no covalente que confieren la estructura primaria a las proteínas.",
+          "isCorrect": false
+        },
+        {
+          "option": " El carbono quiral de los alfa aminoácidos es el que le da las propiedades químicas a cada uno de los diferentes aminoácidos.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Acerca del sistema inmune innato y adaptativo:",
+      "options": [
+        {
+          "option": " Los neutrófilos son células del sistema inmune adaptativo.",
+          "isCorrect": false
+        },
+        {
+          "option": " Un ejemplo de inmunidad pasiva es la que generan las vacunas.",
+          "isCorrect": false
+        },
+        {
+          "option": " El sistema inmune innato se activa luego de dos semanas de comenzada una infección.",
+          "isCorrect": false
+        },
+        {
+          "option": " Los linfocitos T son células del sistema inmune adaptativo que pueden permanecer como memoria inmunológica.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuáles son las células que participan de la respuesta inflamatoria que producen heparina e histamina?",
+      "options": [
+        {
+          "option": " Los macrófagos",
+          "isCorrect": false
+        },
+        {
+          "option": " Los mastocitos",
+          "isCorrect": false
+        },
+        {
+          "option": " Los neutrófilos",
+          "isCorrect": false
+        },
+        {
+          "option": " Los eosinófilos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo se denomina la estructura que se ubica en los vértices del lobulillo hepático clásico?",
+      "options": [
+        {
+          "option": " Espacio porta",
+          "isCorrect": false
+        },
+        {
+          "option": " Espacio de Disse",
+          "isCorrect": false
+        },
+        {
+          "option": " Cápsula de Glisson",
+          "isCorrect": false
+        },
+        {
+          "option": " Vena centrolobulillar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿En qué etapa de la Meiosis se encuentra detenido el ovocito primario?",
+      "options": [
+        {
+          "option": " Profase",
+          "isCorrect": false
+        },
+        {
+          "option": " Anafase",
+          "isCorrect": false
+        },
+        {
+          "option": " Telofase",
+          "isCorrect": false
+        },
+        {
+          "option": " Metafase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Respecto al circuito circulatorio:",
+      "options": [
+        {
+          "option": " A la aurícula derecha ingresa sangre oxigenada proveniente de los pulmones.",
+          "isCorrect": false
+        },
+        {
+          "option": " A la aurícula izquierda ingresa sangre desoxigenada proveniente de la circulación sistémica.",
+          "isCorrect": false
+        },
+        {
+          "option": " El ventrículo izquierdo impulsa sangre desoxigenada a través de la arteria pulmonar hacia los pulmones.",
+          "isCorrect": false
+        },
+        {
+          "option": " El ventrículo derecho impulsa sangre desoxigenada a través de la arteria pulmonar hacia los pulmones.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones menciona estructuras o componentes de la médula ósea roja?",
+      "options": [
+        {
+          "option": " acinos mucosos",
+          "isCorrect": false
+        },
+        {
+          "option": " abundante tejido adiposo",
+          "isCorrect": false
+        },
+        {
+          "option": " fibras musculares esqueléticas agrupadas",
+          "isCorrect": false
+        },
+        {
+          "option": " células que dan origen a elementos formes de a sangre",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Indique cuál de siguientes estructuras histológicas se encuentra presente a nivel de los alvéolos:",
+      "options": [
+        {
+          "option": " Epitelio",
+          "isCorrect": false
+        },
+        {
+          "option": " Glándulas",
+          "isCorrect": false
+        },
+        {
+          "option": " Músculo liso",
+          "isCorrect": false
+        },
+        {
+          "option": " Cartílago hialino",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre sistema digestivo:",
+      "options": [
+        {
+          "option": " El jugo pancreático es rico en agua y bicarbonato",
+          "isCorrect": false
+        },
+        {
+          "option": " El intestino grueso tiene como función principal la absorción de nutrientes",
+          "isCorrect": false
+        },
+        {
+          "option": " Las enzimas digestivas cimógenas son aquellas que no necesitan de una activación previa para actuar",
+          "isCorrect": false
+        },
+        {
+          "option": " El hígado cumple funciones de almacenamiento, pero no participa en la digestión química de nutrientes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Cuando los niveles de ADH en el plasma son bajos, la orina será:",
+      "options": [
+        {
+          "option": " muy diluida.",
+          "isCorrect": false
+        },
+        {
+          "option": " rica en glucosa.",
+          "isCorrect": false
+        },
+        {
+          "option": " muy concentrada.",
+          "isCorrect": false
+        },
+        {
+          "option": " rica en proteínas.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En relación a las características estructurales y funcionales de las fibras oxidativas lentas del músculo esquelético:",
+      "options": [
+        {
+          "option": " Tienen baja resistencia a la fatiga.",
+          "isCorrect": false
+        },
+        {
+          "option": " Poseen alta velocidad de contracción.",
+          "isCorrect": false
+        },
+        {
+          "option": " Poseen alta capacidad de generar ATP por respiración aeróbica.",
+          "isCorrect": false
+        },
+        {
+          "option": " Poseen escasa vascularización, baja concentración de mioglobina y pocas mitocondrias.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En presencia de surfactante pulmonar, la distensibilidad del pulmón:",
+      "options": [
+        {
+          "option": " Aumenta.",
+          "isCorrect": false
+        },
+        {
+          "option": " Disminuye.",
+          "isCorrect": false
+        },
+        {
+          "option": " Depende del tipo de surfactante pulmonar.",
+          "isCorrect": false
+        },
+        {
+          "option": " Es responsable de generar un impulso eléctrico.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Qué dos elementos establecen contacto sináptico en la placa neuromuscular o placa motora?",
+      "options": [
+        {
+          "option": " Una terminal nerviosa sensitiva y una fibra muscular estriada esquelética",
+          "isCorrect": false
+        },
+        {
+          "option": " Una terminal nerviosa motora y una fibra muscular estriada esquelética",
+          "isCorrect": false
+        },
+        {
+          "option": " Una terminal nerviosa sensitiva y una fibra muscular lisa",
+          "isCorrect": false
+        },
+        {
+          "option": " Una terminal nerviosa motora y una fibra muscular lisa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿En cuál de los siguientes organelos existen ribosomas adheridos a la membrana?",
+      "options": [
+        {
+          "option": " En los lisosomas",
+          "isCorrect": false
+        },
+        {
+          "option": " En las mitocondrias",
+          "isCorrect": false
+        },
+        {
+          "option": " En el retículo endoplásmico liso",
+          "isCorrect": false
+        },
+        {
+          "option": " En el retículo endoplásmico rugoso",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La presión arterial media se calcula como:",
+      "options": [
+        {
+          "option": " La presión sistólica más 100 mmHg.",
+          "isCorrect": false
+        },
+        {
+          "option": " El promedio entre la presión diastólica y la sistólica.",
+          "isCorrect": false
+        },
+        {
+          "option": " La presión diastólica más un tercio de la presión diferencial.",
+          "isCorrect": false
+        },
+        {
+          "option": " La diferencia entre la presión sistólica y la presión diastólica.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre las enzimas:",
+      "options": [
+        {
+          "option": " Su actividad no depende de Temperatura ni pH",
+          "isCorrect": false
+        },
+        {
+          "option": " Su regulación solo depende de la presencia de inhibidores",
+          "isCorrect": false
+        },
+        {
+          "option": " Son catalizadores biológicos que aumentan la velocidad de reacción",
+          "isCorrect": false
+        },
+        {
+          "option": " Actúan sobre los productos de las reacciones, modificando los equilibrios de reacción",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Al analizar la estructura del sarcómero en el músculo estriado: ¿Cuál es la proteína del citoesqueleto que predomina en los filamentos gruesos?",
+      "options": [
+        {
+          "option": " Actina",
+          "isCorrect": false
+        },
+        {
+          "option": " Miosina",
+          "isCorrect": false
+        },
+        {
+          "option": " Tubulina",
+          "isCorrect": false
+        },
+        {
+          "option": " Citoqueratina",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre la coagulación:",
+      "options": [
+        {
+          "option": " Las plaquetas son células nucleadas que actúan como centinelas de la integridad vascular.",
+          "isCorrect": false
+        },
+        {
+          "option": " La formación de la red de fibrina ocurre por la acción de la protrombina sobre el fibrinógeno.",
+          "isCorrect": false
+        },
+        {
+          "option": " En este proceso se genera la protrombinasa que genera trombina, la que degrada al fibrinógeno en fibrina.",
+          "isCorrect": false
+        },
+        {
+          "option": " La cascada de coagulación se produce por un único mecanismo que se conoce como vía extrínseca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La glucólisis es una vía metabólica universal para la obtención de energía. Según sus conocimientos en esta ruta:",
+      "options": [
+        {
+          "option": " Se degrada la glucosa a dos moléculas de piruvato, con la producción de ATP y NADH.",
+          "isCorrect": false
+        },
+        {
+          "option": " Se degrada la glucosa a dos moléculas de acetil-CoA, con la producción de ATP y FADH.",
+          "isCorrect": false
+        },
+        {
+          "option": " Se degrada el acetil-CoA a dos moléculas de piruvato, con la producción de ATP y NADH.",
+          "isCorrect": false
+        },
+        {
+          "option": " Se sintetiza acetil-CoA a partir de dos moléculas de piruvato, con la producción de ATP y NADH.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "De los huesos mencionados, indique cual pertenece al esqueleto apendicular:",
+      "options": [
+        {
+          "option": " Frontal.",
+          "isCorrect": false
+        },
+        {
+          "option": " Hioides.",
+          "isCorrect": false
+        },
+        {
+          "option": " Clavícula.",
+          "isCorrect": false
+        },
+        {
+          "option": " Sacro-coxis.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre sistema endócrino:",
+      "options": [
+        {
+          "option": " Las hormonas no presentan ritmos ni pulsos de secreción",
+          "isCorrect": false
+        },
+        {
+          "option": " Las glándulas exócrinas son aquellas que vierten sus productos a la sangre",
+          "isCorrect": false
+        },
+        {
+          "option": " Las hormonas son mensajeros químicos que actúan en altas concentraciones",
+          "isCorrect": false
+        },
+        {
+          "option": " Las hormonas se caracterizan por presentar una elevada afinidad por sus receptores",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a las meninges craneales:",
+      "options": [
+        {
+          "option": " La piamadre es la capa meníngea más interna.",
+          "isCorrect": false
+        },
+        {
+          "option": " La duramadre es la capa meníngea más interna.",
+          "isCorrect": false
+        },
+        {
+          "option": " La aracnoides es la capa meníngea más interna.",
+          "isCorrect": false
+        },
+        {
+          "option": " La aracnoides es la capa meníngea más externa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En la mitocondria se da la fase aeróbica del metabolismo, que consiste en:",
+      "options": [
+        {
+          "option": " El transporte de H+ al oxígeno, que genera un gradiente electroquímico de electrones, cuya disipación provee la energía para la síntesis de AMP.",
+          "isCorrect": false
+        },
+        {
+          "option": " El transporte de electrones al CO2, que genera un gradiente electroquímico de H+, cuya disipación lleva a la síntesis de ADP por fosforilación a nivel del sustrato.",
+          "isCorrect": false
+        },
+        {
+          "option": " El transporte de NADH al oxígeno, que genera la síntesis de un compuesto de energía elevada, que provee la energía para la síntesis de ATP a partir de ADP.",
+          "isCorrect": false
+        },
+        {
+          "option": " El transporte de electrones al oxígeno, que genera un gradiente electroquímico de H+, cuya disipación provee la energía para la síntesis de ATP en la ATP sintasa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Las proteínas, moléculas indispensables para la vida, son polímeros formados por unidades de:",
+      "options": [
+        {
+          "option": " glicerol.",
+          "isCorrect": false
+        },
+        {
+          "option": " glucosa.",
+          "isCorrect": false
+        },
+        {
+          "option": " aminoácidos.",
+          "isCorrect": false
+        },
+        {
+          "option": " ácidos grasos.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes volúmenes pulmonares puede medirse a través de una espirometría simple?",
+      "options": [
+        {
+          "option": " El volumen residual.",
+          "isCorrect": false
+        },
+        {
+          "option": " El volumen corriente.",
+          "isCorrect": false
+        },
+        {
+          "option": " El volumen pulmonar total.",
+          "isCorrect": false
+        },
+        {
+          "option": " La capacidad residual funcional.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a la actividad del músculo esquelético:",
+      "options": [
+        {
+          "option": " En ausencia de ATP la actina forma un complejo débil con la miosina.",
+          "isCorrect": false
+        },
+        {
+          "option": " La cabeza de la miosina posee la capacidad de hidrolizar la molécula de ATP.",
+          "isCorrect": false
+        },
+        {
+          "option": " El desarrollo de fuerza en un tétanos incompleto es mayor que en un tétanos completo.",
+          "isCorrect": false
+        },
+        {
+          "option": " El desarrollo de fuerza por parte del músculo es inversamente proporcional al número de puentes cruzados entre filamentos delgados y gruesos.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Respecto a las características de la conducción eléctrica del corazón:",
+      "options": [
+        {
+          "option": " No requiere de un gran gasto de ATP.",
+          "isCorrect": false
+        },
+        {
+          "option": " El impulso nervioso comienza por el Haz de His.",
+          "isCorrect": false
+        },
+        {
+          "option": " El impulso comienza por el Nodo Sino auricular.",
+          "isCorrect": false
+        },
+        {
+          "option": " El impulso comienza por el Nodo Auriculoventricular.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre el ciclo de Krebs:",
+      "options": [
+        {
+          "option": " Es una vía exclusivamente anabólica",
+          "isCorrect": false
+        },
+        {
+          "option": " Ocurre entre el citoplasma y el núcleo celular",
+          "isCorrect": false
+        },
+        {
+          "option": " Tiene como rendimiento neto una molécula de Acetil-CoA y 3 moléculas de ATP",
+          "isCorrect": false
+        },
+        {
+          "option": " Produce equivalentes de reducción que transportan electrones a la cadena respiratoria",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al aparato digestivo:",
+      "options": [
+        {
+          "option": " El hígado es el principal órgano ingestivo.",
+          "isCorrect": false
+        },
+        {
+          "option": " El Hígado forma parte de las glándulas anexas.",
+          "isCorrect": false
+        },
+        {
+          "option": " El Hígado es el principal órgano de la absorción.",
+          "isCorrect": false
+        },
+        {
+          "option": " El Hígado no forma parte de las glándulas anexas.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al eje hipotálamo-hipofisario:",
+      "options": [
+        {
+          "option": " El caso donde una hormona periférica inhibe una hormona hipofisaria es un ejemplo de retroalimentación de asa corta.",
+          "isCorrect": false
+        },
+        {
+          "option": " En un sistema de retroalimentación negativa, la liberación de la hormona periférica promueve su propia liberación.",
+          "isCorrect": false
+        },
+        {
+          "option": " En un sistema de retroalimentación positiva, la liberación de la hormona periférica promueve su propia liberación.",
+          "isCorrect": false
+        },
+        {
+          "option": " El caso donde una hormona periférica inhibe una neurohormona hipotalámica es un ejemplo de retroalimentación de asa ultracorta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a las neuronas:",
+      "options": [
+        {
+          "option": " Su núcleo se localiza en el axón",
+          "isCorrect": false
+        },
+        {
+          "option": " Sus organelos se localizan en el soma",
+          "isCorrect": false
+        },
+        {
+          "option": " Producen una sustancia denominada mielina",
+          "isCorrect": false
+        },
+        {
+          "option": " Su región conductora está conformada por múltiples dendritas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes huesos es un hueso corto?",
+      "options": [
+        {
+          "option": " Cubito",
+          "isCorrect": false
+        },
+        {
+          "option": " Peroné",
+          "isCorrect": false
+        },
+        {
+          "option": " Astrágalo",
+          "isCorrect": false
+        },
+        {
+          "option": " 1er metacarpiano",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "El páncreas es una glándula mixta, ¿cuál de las siguientes afirmaciones es correcta?",
+      "options": [
+        {
+          "option": " Produce amilasa que tiene como sustrato a los Triglicéridos",
+          "isCorrect": false
+        },
+        {
+          "option": " Su función exocrina está vinculada a la regulación de la glicemia a través de la insulina.",
+          "isCorrect": false
+        },
+        {
+          "option": " Produce Insulina que es la responsable del aumento de los niveles de glucosa en sangre.",
+          "isCorrect": false
+        },
+        {
+          "option": " Su función exocrina está vinculada a la digestión de grasas, proteínas y carbohidratos a través de la producción de diferentes enzimas.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Respecto a la dinámica circulatoria:",
+      "options": [
+        {
+          "option": " Del ventrículo derecho sale sangre oxigenada.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las arterias del circuito sistémico transportan sangre oxigenada.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las arterias del circuito sistémico transportan sangre desoxigenada.",
+          "isCorrect": false
+        },
+        {
+          "option": " Los vasos donde se lleva a cabo el intercambio gaseoso son las arteriolas.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuántos miembros componen los Consejos de Facultades?",
+      "options": [
+        {
+          "option": " 10",
+          "isCorrect": false
+        },
+        {
+          "option": " 12",
+          "isCorrect": false
+        },
+        {
+          "option": " 16",
+          "isCorrect": false
+        },
+        {
+          "option": " 14",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuáles son los órdenes que integran los órganos de gobierno de la Udelar?",
+      "options": [
+        {
+          "option": " Estudiantil- Egresado- Docente",
+          "isCorrect": false
+        },
+        {
+          "option": " Estudiantil- Docente- Funcionarios",
+          "isCorrect": false
+        },
+        {
+          "option": " Egresados- Funcionarios- Docentes",
+          "isCorrect": false
+        },
+        {
+          "option": " Funcionarios- Egresados- Estudiantil",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es la duración del mandato de los decanos?",
+      "options": [
+        {
+          "option": " 2 años",
+          "isCorrect": false
+        },
+        {
+          "option": " 4 años",
+          "isCorrect": false
+        },
+        {
+          "option": " 5 años",
+          "isCorrect": false
+        },
+        {
+          "option": " 6 años",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Quién designa al vice Rector?",
+      "options": [
+        {
+          "option": " El Rector",
+          "isCorrect": false
+        },
+        {
+          "option": " El consejo de Facultad",
+          "isCorrect": false
+        },
+        {
+          "option": " El Consejo Directivo Central",
+          "isCorrect": false
+        },
+        {
+          "option": " La Asamblea General del Claustro",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿De qué año es la Ley 12.549, Carta Orgánica de la Universidad de la República?",
+      "options": [
+        {
+          "option": " 1957",
+          "isCorrect": false
+        },
+        {
+          "option": " 1958",
+          "isCorrect": false
+        },
+        {
+          "option": " 1959",
+          "isCorrect": false
+        },
+        {
+          "option": " 1968",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
