@@ -1,0 +1,826 @@
+{
+  "nombre": "Prueba de ingreso 2022a",
+  "codigo": "ingreso2022a",
+  "area": "todas",
+  "preguntas": [
+    {
+      "question": "¿El 18 de julio de que año se instala e inaugura solemnemente la Universidad de la República?",
+      "options": [
+        {
+          "option": " 1847",
+          "isCorrect": false
+        },
+        {
+          "option": " 1848",
+          "isCorrect": false
+        },
+        {
+          "option": " 1849",
+          "isCorrect": true
+        },
+        {
+          "option": " 1950",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿En qué órgano se elige al Rector?",
+      "options": [
+        {
+          "option": " Presidencia de la Nación",
+          "isCorrect": false
+        },
+        {
+          "option": " El Consejo Directivo Central",
+          "isCorrect": false
+        },
+        {
+          "option": " La Asamblea General del Claustro",
+          "isCorrect": true
+        },
+        {
+          "option": " La Asamblea de Claustro de Facultad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuánto dura el mandato de los representantes de los órdenes en los Consejos de Facultad?",
+      "options": [
+        {
+          "option": " 2 años",
+          "isCorrect": false
+        },
+        {
+          "option": " 3 años",
+          "isCorrect": false
+        },
+        {
+          "option": " 4 años",
+          "isCorrect": true
+        },
+        {
+          "option": " 5 años",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Quién es el actual decano/a de la Facultad de Medicina?",
+      "options": [
+        {
+          "option": " Álvaro Villar",
+          "isCorrect": false
+        },
+        {
+          "option": " Rodrigo Arim",
+          "isCorrect": false
+        },
+        {
+          "option": " Miguel Martínez",
+          "isCorrect": true
+        },
+        {
+          "option": " Patricia Manzoni",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Quién elaboró el Plan de Reestructuración de la Universidad a finales de la década del 60?",
+      "options": [
+        {
+          "option": " Darcy Ribeiro",
+          "isCorrect": false
+        },
+        {
+          "option": " Oscar Maggiolo",
+          "isCorrect": true
+        },
+        {
+          "option": " Mario Cassinoni",
+          "isCorrect": false
+        },
+        {
+          "option": " Samuel Lichtensztejn",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre la estructura proteica:",
+      "options": [
+        {
+          "option": " La función de las proteínas es independiente de su estructura.",
+          "isCorrect": false
+        },
+        {
+          "option": " La desnaturalización de las proteínas implica una pérdida de estructura primaria.",
+          "isCorrect": false
+        },
+        {
+          "option": " La estructura terciaria refiere a la disposición tridimensional de todos los átomos de una proteína.",
+          "isCorrect": true
+        },
+        {
+          "option": " La estructura primaria está dada por la secuencia de aminoácidos unidos por enlaces de hidrógeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Indique cuál de las siguientes articulaciones sinoviales no permite movimientos de rotación axial:",
+      "options": [
+        {
+          "option": " Cadera.",
+          "isCorrect": false
+        },
+        {
+          "option": " Gleno-humeral.",
+          "isCorrect": false
+        },
+        {
+          "option": " Atloido-odontoidea.",
+          "isCorrect": false
+        },
+        {
+          "option": " Trapecio metacarpiana.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Respecto a la absorción intestinal:",
+      "options": [
+        {
+          "option": " El agua se absorbe únicamente en el intestino grueso.",
+          "isCorrect": false
+        },
+        {
+          "option": " La absorción del Hierro inorgánico es más eficiente que la del orgánico.",
+          "isCorrect": false
+        },
+        {
+          "option": " Se ve favorecida por la gran superficie de la zona luminal del intestino delgado.",
+          "isCorrect": true
+        },
+        {
+          "option": " La simetría de los enterocitos es una característica fundamental a la hora de la absorción de los nutrientes.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿En cuál de los siguientes sectores del sistema nervioso vamos a encontrar mayor cantidad de mielina?",
+      "options": [
+        {
+          "option": " en un nervio",
+          "isCorrect": true
+        },
+        {
+          "option": " en un ganglio espinal",
+          "isCorrect": false
+        },
+        {
+          "option": " en la corteza cerebral",
+          "isCorrect": false
+        },
+        {
+          "option": " en la corteza cerebelosa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre la coagulación:",
+      "options": [
+        {
+          "option": " Se puede formar el coágulo de fibrina sin necesidad de calcio",
+          "isCorrect": false
+        },
+        {
+          "option": " La fibrinólisis es la formación de Fibrina a partir de Fibrinógeno",
+          "isCorrect": false
+        },
+        {
+          "option": " Solo participan en el proceso de coagulación elementos celulares",
+          "isCorrect": false
+        },
+        {
+          "option": " Ante la lesión de un vaso, lo primero que ocurre es la adhesión y agregación plaquetaria",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a las plaquetas:",
+      "options": [
+        {
+          "option": " Son los elementos formes mayoritarios de la sangre",
+          "isCorrect": false
+        },
+        {
+          "option": " Son células que se diferencian a partir de los megacariocitos",
+          "isCorrect": true
+        },
+        {
+          "option": " Son elementos formes de la sangre que derivan de los mastocitos",
+          "isCorrect": false
+        },
+        {
+          "option": " Son elementos formes de la sangre relevantes en el proceso de hemostasis",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Las fibras del tejido muscular cardíaco inespecífico contráctil:",
+      "options": [
+        {
+          "option": " poseen varios núcleos de ubicación periférica",
+          "isCorrect": false
+        },
+        {
+          "option": " tienen forma de huso",
+          "isCorrect": false
+        },
+        {
+          "option": " carecen de actina",
+          "isCorrect": false
+        },
+        {
+          "option": " son estriadas",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "En el aparato respiratorio: ¿En cuál de los sectores mencionados el epitelio de revestimiento presenta cilias?",
+      "options": [
+        {
+          "option": " alvéolos",
+          "isCorrect": false
+        },
+        {
+          "option": " bronquios",
+          "isCorrect": true
+        },
+        {
+          "option": " bronquiolos",
+          "isCorrect": false
+        },
+        {
+          "option": " conductos alveolares",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿En qué estructura del riñón se encuentran los podocitos?",
+      "options": [
+        {
+          "option": " En los túbulos contorneados proximales",
+          "isCorrect": false
+        },
+        {
+          "option": " En los corpúsculos renales",
+          "isCorrect": true
+        },
+        {
+          "option": " En los túbulos colectores",
+          "isCorrect": false
+        },
+        {
+          "option": " En el asa de Henle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Respecto a la transmisión sináptica:",
+      "options": [
+        {
+          "option": " La sinapsis eléctrica es más rápida que la química",
+          "isCorrect": true
+        },
+        {
+          "option": " En la sinapsis química la corriente fluye a través de las uniones en hendidura",
+          "isCorrect": false
+        },
+        {
+          "option": " Los neurotransmisores se sintetizan al momento de ser liberados en la terminal presináptica",
+          "isCorrect": false
+        },
+        {
+          "option": " En la sinapsis química la señal es amplificada gracias a la liberación de grandes cantidades de iones Ca++",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre el ciclo de Krebs:",
+      "options": [
+        {
+          "option": " Puede ocurrir en anaerobiosis",
+          "isCorrect": false
+        },
+        {
+          "option": " Su producto final es piruvato y ATP",
+          "isCorrect": false
+        },
+        {
+          "option": " Ocurre a nivel de citoplasma celular",
+          "isCorrect": false
+        },
+        {
+          "option": " Es la ruta central común de la degradación de glúcidos, lípidos y aminoácidos",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "¿En qué sector del ovario se localizan los ovocitos más inmaduros en una mujer adulta?",
+      "options": [
+        {
+          "option": " en la zona del hilio",
+          "isCorrect": false
+        },
+        {
+          "option": " en el epitelio germinativo",
+          "isCorrect": false
+        },
+        {
+          "option": " en la zona profunda de la médula",
+          "isCorrect": false
+        },
+        {
+          "option": " en el sector superficial de la corteza",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a los componentes de la estructura del sarcómero diremos que la banda A se encuentra conformada por:",
+      "options": [
+        {
+          "option": " Únicamente por los filamentos de actina.",
+          "isCorrect": false
+        },
+        {
+          "option": " La distancia entre dos discos Z contiguos.",
+          "isCorrect": false
+        },
+        {
+          "option": " Únicamente por los filamentos de miosina.",
+          "isCorrect": false
+        },
+        {
+          "option": " Filamentos de miosina y la interposición de los mismos con los filamentos de actina.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Respecto al proceso de contracción muscular: ¿qué etapa ocurre primero?",
+      "options": [
+        {
+          "option": " Hidrolisis de ADP",
+          "isCorrect": false
+        },
+        {
+          "option": " Liberación de zinc",
+          "isCorrect": false
+        },
+        {
+          "option": " Liberación de Ca++",
+          "isCorrect": true
+        },
+        {
+          "option": " Formación de enlace cruzado entre actina y miosina.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En relación al sistema endócrino:",
+      "options": [
+        {
+          "option": " Las hormonas peptídicas actúan sobre receptores nucleares",
+          "isCorrect": false
+        },
+        {
+          "option": " Las hormonas se caracterizan por presentar una baja especificidad",
+          "isCorrect": false
+        },
+        {
+          "option": " La interacción hormona–receptor ocurre siempre en el núcleo de la célula",
+          "isCorrect": false
+        },
+        {
+          "option": " Las hormonas peptídicas actúan extracelularmente y más rápidamente que las esteroideas",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal función de los huesos planos?",
+      "options": [
+        {
+          "option": " Transmisión de fuerzas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Protección de cavidades.",
+          "isCorrect": true
+        },
+        {
+          "option": " Accionan como palanca muscular.",
+          "isCorrect": false
+        },
+        {
+          "option": " Transmisión de fuerzas y palanca muscular.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Sobre la función inmunitaria:",
+      "options": [
+        {
+          "option": " El complemento es un componente de inmunidad adaptativa",
+          "isCorrect": false
+        },
+        {
+          "option": " Los linfocitos T CD8 Citotóxicos son linfocitos que colaboran en la producción de anticuerpos",
+          "isCorrect": false
+        },
+        {
+          "option": " La inmunidad celular está mediada exclusivamente por linfocitos B productores de anticuerpos",
+          "isCorrect": false
+        },
+        {
+          "option": " En la respuesta innata se reacciona siempre de la misma manera ante diferentes agentes infecciosos.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "La siguiente característica corresponde al sistema circulatorio:",
+      "options": [
+        {
+          "option": " Los capilares son los vasos de mayor de calibre.",
+          "isCorrect": false
+        },
+        {
+          "option": " La presión sanguínea es máxima en el sector venoso.",
+          "isCorrect": false
+        },
+        {
+          "option": " La velocidad de la sangre es alta en las grandes arterias.",
+          "isCorrect": true
+        },
+        {
+          "option": " La presión sanguínea disminuye a nivel de las arteriolas.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En relación a glucólisis:",
+      "options": [
+        {
+          "option": " Es una vía catabólica",
+          "isCorrect": true
+        },
+        {
+          "option": " Ocurre en la mitocondria de las células",
+          "isCorrect": false
+        },
+        {
+          "option": " Convierte glucosa en Dióxido de Carbono y Agua",
+          "isCorrect": false
+        },
+        {
+          "option": " Ocurre por difusión ya que carece de regulación enzimática",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes hormonas es regulada por el eje hipotálamo – hipófisis?",
+      "options": [
+        {
+          "option": " Eritropoyetina.",
+          "isCorrect": false
+        },
+        {
+          "option": " Aldosterona.",
+          "isCorrect": false
+        },
+        {
+          "option": " Estradiol.",
+          "isCorrect": true
+        },
+        {
+          "option": " Tiroxina.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al potencial de acción de un axón mielínico:",
+      "options": [
+        {
+          "option": " Su amplitud se atenúa fuertemente a medida que avanza por el axón.",
+          "isCorrect": false
+        },
+        {
+          "option": " La repolarización es consecuencia de la entrada de sodio a la célula.",
+          "isCorrect": false
+        },
+        {
+          "option": " La despolarización es independiente del movimiento de sodio a través de la membrana.",
+          "isCorrect": false
+        },
+        {
+          "option": " Durante la despolarización el interior celular se vuelve positivo con respecto al exterior celular.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "El ATP es la moneda energética de la célula. Su proceso de síntesis se lleva a cabo por fosforilación del ADP. Esta fosforilación se puede llevar a cabo por diferentes mecanismos:",
+      "options": [
+        {
+          "option": " La transferencia de un grupo fosfato desde la citocromo oxidasa a la ATP sintasa.",
+          "isCorrect": false
+        },
+        {
+          "option": " La transferencia de un grupo fosfato de baja energía de un compuesto metabólico intermedio (un sustrato",
+          "isCorrect": false
+        },
+        {
+          "option": " La transferencia de un grupo fosfato de alta energía de un compuesto metabólico intermedio (un sustrato",
+          "isCorrect": true
+        },
+        {
+          "option": " La transferencia de un grupo fosfato desde los transportadores de electrones de la cadena respiratoria al ADP.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes estructuras es el sitio de inserción distal del musculo cuádriceps femoral?",
+      "options": [
+        {
+          "option": " Meseta tibial",
+          "isCorrect": false
+        },
+        {
+          "option": " Maléolo tibial",
+          "isCorrect": false
+        },
+        {
+          "option": " Tubérculo de Gerdy",
+          "isCorrect": false
+        },
+        {
+          "option": " Tuberosidad anterior de la Tibia",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Sobre las biomoléculas:",
+      "options": [
+        {
+          "option": " Son todas de naturaleza orgánica",
+          "isCorrect": false
+        },
+        {
+          "option": " Sacarosa y lactosa son monosacáridos",
+          "isCorrect": false
+        },
+        {
+          "option": " Los lípidos son compuestos solubles en Agua",
+          "isCorrect": false
+        },
+        {
+          "option": " Los aminoácidos son los monómeros de las proteínas",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a un espermatozoide humano:",
+      "options": [
+        {
+          "option": " Contiene 46 cromosomas",
+          "isCorrect": false
+        },
+        {
+          "option": " Contiene igual información genética que una célula somática",
+          "isCorrect": false
+        },
+        {
+          "option": " En la fecundación aporta la mitad de la información genética del cigoto",
+          "isCorrect": true
+        },
+        {
+          "option": " Contiene igual información genética que todos los espermatozoides producidos por un individuo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Qué función y características presentan las enzimas?",
+      "options": [
+        {
+          "option": " Aumentan la energía de activación de las reacciones químicas, son poco eficientes y no se regula su actividad.",
+          "isCorrect": false
+        },
+        {
+          "option": " Aumentan la velocidad de las reacciones químicas, son específicas de un sustrato y están sujetas a regulación.",
+          "isCorrect": true
+        },
+        {
+          "option": " Disminuyen la velocidad de las reacciones químicas, son específicas de un sustrato y no están sujetas a regulación.",
+          "isCorrect": false
+        },
+        {
+          "option": " No modifican la velocidad de las reacciones químicas, son inespecíficas de un sustrato y no están sujetas a regulación.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Respecto a la mecánica respiratoria:",
+      "options": [
+        {
+          "option": " Permite el intercambio de oxígeno e hidrógeno.",
+          "isCorrect": false
+        },
+        {
+          "option": " Ocurre por los mecanismos ocasionados por el surfactante cardiaco.",
+          "isCorrect": false
+        },
+        {
+          "option": " Es favorecedora de los mecanismos inspiratorios y no de los expiratorios.",
+          "isCorrect": false
+        },
+        {
+          "option": " El Volumen Residual es el aire remanente luego de una espiración máxima.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "En el núcleo celular transcurren los siguientes procesos fundamentales para la regulación del ciclo celular:",
+      "options": [
+        {
+          "option": " Replicación y traducción del ADN",
+          "isCorrect": false
+        },
+        {
+          "option": " Replicación y transcripción del ADN",
+          "isCorrect": true
+        },
+        {
+          "option": " Transcripción y traducción del ADN",
+          "isCorrect": false
+        },
+        {
+          "option": " Transcripción del ADN y síntesis de proteínas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es la definición de la capacidad vital?",
+      "options": [
+        {
+          "option": " Volumen de gas después de inspiración máxima.",
+          "isCorrect": false
+        },
+        {
+          "option": " Volumen máximo exhalado luego de una inspiración máxima.",
+          "isCorrect": true
+        },
+        {
+          "option": " Cantidad de aire inhalado o exhalado en una respiración normal.",
+          "isCorrect": false
+        },
+        {
+          "option": " Volumen que queda en el pulmón luego de una espiración máxima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Respecto a la función renal:",
+      "options": [
+        {
+          "option": " En la secreción tubular las sustancias retornan a los capilares sanguíneos desde los túbulos renales.",
+          "isCorrect": false
+        },
+        {
+          "option": " La filtración glomerular es independiente del peso molecular de las sustancias que filtran a través de la membrana glomerular",
+          "isCorrect": false
+        },
+        {
+          "option": " La filtración glomerular es dependiente de la carga eléctrica de las sustancias que filtran a través de la membrana glomerular",
+          "isCorrect": true
+        },
+        {
+          "option": " La secreción y reabsorción tubular siempre son mecanismos activos, es decir que necesitan del aporte de energía para llevarse a cabo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En la digestión de los alimentos se secretan varios jugos digestivos, que son esenciales para el proceso de digestión de los mismos. Según sus conocimientos, el jugo pancreático está formado por:",
+      "options": [
+        {
+          "option": " agua, sales biliares y ácido clorhídrico.",
+          "isCorrect": false
+        },
+        {
+          "option": " agua, y las hormonas insulina y glucagón.",
+          "isCorrect": false
+        },
+        {
+          "option": " ácido clorhídrico, pepsinógeno y bicarbonato.",
+          "isCorrect": false
+        },
+        {
+          "option": " agua, sales, bicarbonato y enzimas digestivas.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al ciclo cardíaco:",
+      "options": [
+        {
+          "option": " La eyección de la sangre ocurre durante la diástole ventricular.",
+          "isCorrect": false
+        },
+        {
+          "option": " La válvula aórtica se abre durante la diástole ventricular.",
+          "isCorrect": false
+        },
+        {
+          "option": " Durante la sístole se abre la válvula auriculoventricular.",
+          "isCorrect": false
+        },
+        {
+          "option": " El llenado ventricular ocurre en diástole.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a los riñones:",
+      "options": [
+        {
+          "option": " se ubican a la misma altura vertebral.",
+          "isCorrect": false
+        },
+        {
+          "option": " La uretra conduce la orina desde el riñón a la vejiga.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las arterias renales provienen de las arterias iliacas internas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las arterias renales son ramas colaterales de la arteria aorta abdominal.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Respecto al surfactante alveolar:",
+      "options": [
+        {
+          "option": " Disminuye la distensibilidad.",
+          "isCorrect": false
+        },
+        {
+          "option": " Es responsable del impulso eléctrico.",
+          "isCorrect": false
+        },
+        {
+          "option": " Aumenta el retroceso elástico del pulmón.",
+          "isCorrect": false
+        },
+        {
+          "option": " Disminuye la tensión superficial de los alvéolos.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}
