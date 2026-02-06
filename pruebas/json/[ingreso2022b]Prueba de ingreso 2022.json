@@ -20,7 +20,7 @@
         },
         {
           "option": " Síntesis de proteínas",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -29,7 +29,7 @@
       "options": [
         {
           "option": " Son polímeros de L-alfa aminoácidos unidos mediante enlaces peptídicos.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Todas las proteínas se forman con 5 aminoácidos y tienen codones específicos en el código genético.",
@@ -62,7 +62,7 @@
         },
         {
           "option": " Los linfocitos T son células del sistema inmune adaptativo que pueden permanecer como memoria inmunológica.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -75,7 +75,7 @@
         },
         {
           "option": " Los mastocitos",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Los neutrófilos",
@@ -92,7 +92,7 @@
       "options": [
         {
           "option": " Espacio porta",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Espacio de Disse",
@@ -113,7 +113,7 @@
       "options": [
         {
           "option": " Profase",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Anafase",
@@ -146,7 +146,7 @@
         },
         {
           "option": " El ventrículo derecho impulsa sangre desoxigenada a través de la arteria pulmonar hacia los pulmones.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -167,7 +167,7 @@
         },
         {
           "option": " células que dan origen a elementos formes de a sangre",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -176,7 +176,7 @@
       "options": [
         {
           "option": " Epitelio",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Glándulas",
@@ -197,7 +197,7 @@
       "options": [
         {
           "option": " El jugo pancreático es rico en agua y bicarbonato",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " El intestino grueso tiene como función principal la absorción de nutrientes",
@@ -218,7 +218,7 @@
       "options": [
         {
           "option": " muy diluida.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " rica en glucosa.",
@@ -247,7 +247,7 @@
         },
         {
           "option": " Poseen alta capacidad de generar ATP por respiración aeróbica.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Poseen escasa vascularización, baja concentración de mioglobina y pocas mitocondrias.",
@@ -260,7 +260,7 @@
       "options": [
         {
           "option": " Aumenta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Disminuye.",
@@ -285,7 +285,7 @@
         },
         {
           "option": " Una terminal nerviosa motora y una fibra muscular estriada esquelética",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Una terminal nerviosa sensitiva y una fibra muscular lisa",
@@ -314,7 +314,7 @@
         },
         {
           "option": " En el retículo endoplásmico rugoso",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -331,7 +331,7 @@
         },
         {
           "option": " La presión diastólica más un tercio de la presión diferencial.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " La diferencia entre la presión sistólica y la presión diastólica.",
@@ -352,7 +352,7 @@
         },
         {
           "option": " Son catalizadores biológicos que aumentan la velocidad de reacción",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Actúan sobre los productos de las reacciones, modificando los equilibrios de reacción",
@@ -369,7 +369,7 @@
         },
         {
           "option": " Miosina",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Tubulina",
@@ -394,7 +394,7 @@
         },
         {
           "option": " En este proceso se genera la protrombinasa que genera trombina, la que degrada al fibrinógeno en fibrina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " La cascada de coagulación se produce por un único mecanismo que se conoce como vía extrínseca.",
@@ -407,7 +407,7 @@
       "options": [
         {
           "option": " Se degrada la glucosa a dos moléculas de piruvato, con la producción de ATP y NADH.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Se degrada la glucosa a dos moléculas de acetil-CoA, con la producción de ATP y FADH.",
@@ -436,7 +436,7 @@
         },
         {
           "option": " Clavícula.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Sacro-coxis.",
@@ -461,7 +461,7 @@
         },
         {
           "option": " Las hormonas se caracterizan por presentar una elevada afinidad por sus receptores",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -470,7 +470,7 @@
       "options": [
         {
           "option": " La piamadre es la capa meníngea más interna.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " La duramadre es la capa meníngea más interna.",
@@ -545,7 +545,7 @@
         },
         {
           "option": " La capacidad residual funcional.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -558,7 +558,7 @@
         },
         {
           "option": " La cabeza de la miosina posee la capacidad de hidrolizar la molécula de ATP.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " El desarrollo de fuerza en un tétanos incompleto es mayor que en un tétanos completo.",
@@ -583,7 +583,7 @@
         },
         {
           "option": " El impulso comienza por el Nodo Sino auricular.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " El impulso comienza por el Nodo Auriculoventricular.",
@@ -608,7 +608,7 @@
         },
         {
           "option": " Produce equivalentes de reducción que transportan electrones a la cadena respiratoria",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -621,7 +621,7 @@
         },
         {
           "option": " El Hígado forma parte de las glándulas anexas.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " El Hígado es el principal órgano de la absorción.",
@@ -646,7 +646,7 @@
         },
         {
           "option": " En un sistema de retroalimentación positiva, la liberación de la hormona periférica promueve su propia liberación.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " El caso donde una hormona periférica inhibe una neurohormona hipotalámica es un ejemplo de retroalimentación de asa ultracorta.",
@@ -663,7 +663,7 @@
         },
         {
           "option": " Sus organelos se localizan en el soma",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Producen una sustancia denominada mielina",
@@ -688,7 +688,7 @@
         },
         {
           "option": " Astrágalo",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " 1er metacarpiano",
@@ -713,7 +713,7 @@
         },
         {
           "option": " Su función exocrina está vinculada a la digestión de grasas, proteínas y carbohidratos a través de la producción de diferentes enzimas.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -726,7 +726,7 @@
         },
         {
           "option": " Las arterias del circuito sistémico transportan sangre oxigenada.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Las arterias del circuito sistémico transportan sangre desoxigenada.",
@@ -747,7 +747,7 @@
         },
         {
           "option": " 12",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " 16",
@@ -764,7 +764,7 @@
       "options": [
         {
           "option": " Estudiantil- Egresado- Docente",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " Estudiantil- Docente- Funcionarios",
@@ -789,7 +789,7 @@
         },
         {
           "option": " 4 años",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " 5 años",
@@ -814,7 +814,7 @@
         },
         {
           "option": " El Consejo Directivo Central",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " La Asamblea General del Claustro",
@@ -831,7 +831,7 @@
         },
         {
           "option": " 1958",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " 1959",
