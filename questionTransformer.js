@@ -1,4 +1,4 @@
-const questionPath = './pruebas/[reproductor2024]Primer periodo de examen Reproductor y Desarrollo – 23 de noviembre de 2024.txt';
+const questionPath = './pruebas/txt/[ingreso2023a]Prueba de Ingreso 2023.txt';
 const fs = require('fs');
 // Lee el contenido del archivo
 const content = fs.readFileSync(questionPath, 'utf-8').split('\n');
@@ -6,7 +6,7 @@ const content = fs.readFileSync(questionPath, 'utf-8').split('\n');
 const questions = [];
 let currentQuestion = null;
 
-const questionImages = [13,20];
+const questionImages = [];
 
 content.forEach(line => {
     line = line.trim();
@@ -33,11 +33,11 @@ const areas ={
 
 //escribir en un nuevo archivo json
 const nombre = questionPath.split('/').pop().replace('.txt', '');
-const jsonName = questionPath.replace('.txt', '.json')
+const jsonName = questionPath.replace('.txt', '.json').replace('txt', 'json');
 const returnJson = {
     nombre: nombre.split(']')[1],
     codigo: nombre.split(']')[0].replace('[', ''),
-    area: areas.reproductor,
+    area: areas.todas,
     preguntas: questions
 }
 fs.writeFileSync(jsonName, JSON.stringify(returnJson, null, 2));
