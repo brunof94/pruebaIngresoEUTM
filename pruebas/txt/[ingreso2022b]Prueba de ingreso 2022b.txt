@@ -140,12 +140,12 @@ En la mitocondria se da la fase aeróbica del metabolismo, que consiste en:
 a) El transporte de H+ al oxígeno, que genera un gradiente electroquímico de electrones, cuya disipación provee la energía para la síntesis de AMP.
 b) El transporte de electrones al CO2, que genera un gradiente electroquímico de H+, cuya disipación lleva a la síntesis de ADP por fosforilación a nivel del sustrato.
 c) El transporte de NADH al oxígeno, que genera la síntesis de un compuesto de energía elevada, que provee la energía para la síntesis de ATP a partir de ADP.
-d) El transporte de electrones al oxígeno, que genera un gradiente electroquímico de H+, cuya disipación provee la energía para la síntesis de ATP en la ATP sintasa.
+d) El transporte de electrones al oxígeno, que genera un gradiente electroquímico de H+, cuya disipación provee la energía para la síntesis de ATP en la ATP sintasa.*
 
 Las proteínas, moléculas indispensables para la vida, son polímeros formados por unidades de:
 a) glicerol.
 b) glucosa.
-c) aminoácidos.
+c) aminoácidos.*
 d) ácidos grasos.
 
 ¿Cuál de los siguientes volúmenes pulmonares puede medirse a través de una espirometría simple?

@@ -503,7 +503,7 @@
         },
         {
           "option": " El transporte de electrones al oxígeno, que genera un gradiente electroquímico de H+, cuya disipación provee la energía para la síntesis de ATP en la ATP sintasa.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ]
     },
@@ -520,7 +520,7 @@
         },
         {
           "option": " aminoácidos.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "option": " ácidos grasos.",
