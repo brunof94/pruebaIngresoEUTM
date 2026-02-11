@@ -1,6 +1,6 @@
 Acerca del rol del Ministerio de Salud en el Sistema Nacional Integrado de Salud (SNIS)
 a) Es uno más de los prestadores integrales de salud.
-b) Es la autoridad sanitaria y tiene el rol de rectoría.
+b) Es la autoridad sanitaria y tiene el rol de rectoría.*
 c) Es responsable de la formación de los integrantes de los equipos de salud.
 d) Es responsable de la prestación de asistencia médica en el sector público.
 
@@ -8,16 +8,16 @@ La Junta Nacional de Salud (JUNASA) tiene entre sus funciones:
 a) Ejercer la fármaco vigilancia
 b) Ejercer la vigilancia epidemiológica.
 c) Definir políticas de salud para el país.
-d) Extender las órdenes de pago al Fondo Nacional de Salud (FONASA).
+d) Extender las órdenes de pago al Fondo Nacional de Salud (FONASA).*
 
 La “cuota salud” que se le paga a los prestadores integrales del Sistema Nacional Integrado de Salud (SNIS) está compuesta por:
-a) La cápita y las metas asistenciales.
+a) La cápita y las metas asistenciales.*
 b) Un monto fijo según el uso del sistema.
 c) Un monto variable según los hábitos de las personas..
 d) La cápita y un monto según el número de dependientes (hijos y conyugues).
 
 En la década de 1970 Marc Lalonde propuso que el nivel de salud de una comunidad está influido por grandes grupos de circunstancias o determinantes. ¿Cuáles son estos determinantes?
-a) El estilo de vida, la biología humana, el medio ambiente y el sistema de asistencia sanitaria.
+a) El estilo de vida, la biología humana, el medio ambiente y el sistema de asistencia sanitaria.*
 b) Aquellos determinantes que se relacionan con el trabajo de las personas.
 c) Las condiciones climáticas y las emociones.
 d) Las emociones y la biología humana.
@@ -26,16 +26,16 @@ En términos amplios, la “salud pública” puede entenderse como:
 a) El completo estado de bienestar físico, mental y social.
 b) Las circunstancias en que las personas desarrollan su actividad laboral.
 c) La disciplina científica que aborda las situaciones de salud de las personas en términos individuales.
-d) Todo aquello que la sociedad construye colectivamente con la finalidad de mejorar las condiciones de salud y de vida de sus pobladores.
+d) Todo aquello que la sociedad construye colectivamente con la finalidad de mejorar las condiciones de salud y de vida de sus pobladores.*
 
 El agua es el solvente universal porque las moléculas de agua:
-a) Pueden formar interacciones débiles con sustancias polares
+a) Pueden formar interacciones débiles con sustancias polares*
 b) Pueden formar interacciones covalentes con sustancias polares
 c) Pueden formar interacciones hidrofóbicas con sustancias polares.
 d) Pueden formar interacciones débiles con sustancias hidrofóbicas.
 
 La molécula de agua está formada de la siguiente manera:
-a) un átomo de oxígeno unido a dos átomos de hidrógeno no unidos entre sí
+a) un átomo de oxígeno unido a dos átomos de hidrógeno no unidos entre sí*
 b) un átomo de oxígeno unido a dos átomos de hidrógeno unidos entre sí
 c) dos átomos de oxígeno unidos por un átomo de hidrógeno
 d) dos átomos de oxígeno unidos a dos átomos de hidrógeno
@@ -44,82 +44,82 @@ d) dos átomos de oxígeno unidos a dos átomos de hidrógeno
 a) Es una hélice simple formada por una cadena de aminoácidos
 b) Es una hélice simple formada por una cadena de nucleótidos
 c) Es una doble hélice formada por dos cadenas de aminoácidos
-d) Es una doble hélice formada por dos cadenas de nucleótidos
+d) Es una doble hélice formada por dos cadenas de nucleótidos*
 
 En una molécula de ADN la cantidad de:
 a) adeninas (es igual a la de uracilos (U).
 b) adeninas (es igual a la de guaninas (G)
 c) guaninas (G) es igual a la de timinas (T).
-d) guaninas (G) es igual a la de citocinas (C).
+d) guaninas (G) es igual a la de citocinas (C).*
 
 ¿Cuál es la normalidad de una solución que se forma por la mezcla de 1 mol de HCl en 100 mL de agua?
 a) 0,5 N
 b) 1 N
 c) 2 N
-d) 10 N
+d) 10 N*
 
 Indique cuál de las siguientes acciones permite preparar una solución de NaOH 2 M: Dato: masa molar NaOH = 40 g/mol
 a) disolver 40 gramos de NaOH en 1 L de solución
-b) disolver 40 gramos de NaOH en 500 mL de solución
+b) disolver 40 gramos de NaOH en 500 mL de solución*
 c) disolver 80 gramos de NaOH en 2 L de solución
 d) disolver 80 gramos de NaOH en 100 ml de solución
 
 Indique cuál es la masa de glucosa necesaria para preparar 100 mL de una solución 15% m/V, sabiendo que “% m/V” expresa los gramos de soluto en 100 mL de solución:
 a) 1,5 g
-b) 15 g
+b) 15 g*
 c) 150 g
 d) 1500 g
 
 ¿Cuál es el pH de una solución de ácido clorhídrico (HCl) 0,005 M?
-a) 2,3
+a) 2,3*
 b) 7,0
 c) 9,0
 d) 11,7
 
 Un ácido es:
 a) Una molécula que no presenta H+
-b) Una molécula capaz de ceder protones.
+b) Una molécula capaz de ceder protones.*
 c) Una molécula capaz de aceptar protones
 d) Una molécula capaz de ceder y aceptar protones al mismo tiempo.
 
 Una solución básica es una solución:
 a) Con un pH menor a 7.
-b) Con un pH mayor a 7
+b) Con un pH mayor a 7*
 c) Con un pH igual a 7
 d) Que no posee pH.
 
 ¿Qué tipo de enlace une los aminoácidos que constituyen la estructura primaria de una proteína?
 a) enlace iónico
-b) enlace covalente
+b) enlace covalente*
 c) interacción hidrofóbica
 d) enlaces de hidrógeno
 
 ¿Qué átomo NO forma parte de la composición de los monosacáridos?
 a) Carbono
 b) Oxígeno
-c) Nitrógeno
+c) Nitrógeno*
 d) Hidrógeno
 
 ¿En qué biomolécula radica la información hereditaria?
 a) Lípidos
 b) Proteínas
 c) Carbohidratos
-d) Ácidos nucleicos
+d) Ácidos nucleicos*
 
 ¿Cuál de las siguientes moléculas NO es una biomolécula?
 a) Glucosa
 b) Triglicérido
 c) Hemoglobina
-d) Hhidróxido de potasio
+d) Hhidróxido de potasio*
 
 ¿Qué molécula se observa en la figura?(img)
 a) Tiamina
 b) Sacarosa
-c) Colesterol
+c) Colesterol*
 d) Adenosil tri fosfato (ATP)
 
 Los ácidos grasos integran el siguiente grupo de biomoléculas:
-a) Lípidos
+a) Lípidos*
 b) Glúcidos
 c) Proteínas
 d) Ácidos nucleicos
@@ -128,16 +128,16 @@ d) Ácidos nucleicos
 a) enlace iónico
 b) enlace covalente
 c) enlaces de hidrógeno
-d) interacción hidrofóbica
+d) interacción hidrofóbica*
 
 ¿Cómo se almacenan los glúcidos en el músculo?
 a) Como polímeros de ácidos grasos.
 b) Como polímeros de aminoácidos.
 c) Como monómeros de glucosa.
-d) Como polímeros de glucosa.
+d) Como polímeros de glucosa.*
 
 Con respecto a la mitocondria, indique la opción correcta:
-a) Poseen una doble membrana
+a) Poseen una doble membrana*
 b) Se localizan en el núcleo de las células eucariotas.
 c) Es un organelo característico de células procariotas
 d) Es el principal sitio de síntesis de proteínas celulares
@@ -145,41 +145,41 @@ d) Es el principal sitio de síntesis de proteínas celulares
 Con respecto al ciclo cardíaco, indique la opción correcta:
 a) La válvula pulmonar se abre durante la diástole
 b) La válvula mitral se abre al comienzo de la sístole.
-c) La válvula aórtica se abre durante la sístole ventricular.
+c) La válvula aórtica se abre durante la sístole ventricular.*
 d) Durante la diástole se cierra la válvula auriculoventricular.
 
 La función principal del nodo sinoauricular es:
 a) Contraer las aurículas.
 b) Regular la presión arterial
-c) Actuar como marcapasos del corazón.
+c) Actuar como marcapasos del corazón.*
 d) Transmitir señales al sistema nervioso simpático.
 
 Una disminución de la presión arterial lleva a un aumento en la secreción de aldosterona, generando el siguiente efecto sobre la fisiología del riñón:
 a) Aumento en la excreción de agua.
 b) Aumento en la excreción de sodio.
-c) Aumento en la reabsorción de sodio.
+c) Aumento en la reabsorción de sodio.*
 d) Disminución en la reabsorción de agua.
 
 ¿Cuál es la principal función del hígado en el metabolismo de los lípidos?
-a) Producir bilis.
+a) Producir bilis.*
 b) Almacenar glucógeno.
 c) Generar eritropoyetina.
 d) Sintetizar hormonas tiroideas.
 
 ¿Qué enzimas digestivas llevan a cabo la digestión de los polisacáridos?
 a) Lipasas
-b) Amilasas
+b) Amilasas*
 c) Proteasas
 d) Estearasas
 
 Con respecto al hígado, indique la opción correcta:
 a) Las células de Kupffer sintetizan la bilis
 b) Los sinusoides hepáticos conducen la bilis
-c) Los hepatocitos son células epiteliales especializadas
+c) Los hepatocitos son células epiteliales especializadas*
 d) La sangre circula desde la vena central hacia la tríada portal
 
 Con respecto al óvulo humano y su contenido genético indique la opción correcta:
-a) Contiene igual información genética que las células epiteliales del mismo individuo
+a) Contiene igual información genética que las células epiteliales del mismo individuo*
 b) Contiene la mitad de la información genética necesaria para generar un individuo
 c) Contiene el mismo número de cromosomas que una célula somática.
 d) Contiene 46 cromosomas
@@ -187,35 +187,35 @@ d) Contiene 46 cromosomas
 Con respecto al ciclo sexual femenino, señale la opción correcta:
 a) El pico de LH ocurre en la fase folicular temprana.
 b) Los estrógenos sólo se producen durante la fase lútea.
-c) La ovulación ocurre debido a un aumento abrupto de LH y FSH.
+c) La ovulación ocurre debido a un aumento abrupto de LH y FSH.*
 d) Durante la fase lútea, la progesterona se encuentra en niveles bajos.
 
 ¿Cuál de estos efectos se produce por la activación del sistema nervioso simpático?
 a) Broncoconstricción.
 b) Contracción de las pupilas.
-c) Aumento en la frecuencia cardíaca.
+c) Aumento en la frecuencia cardíaca.*
 d) Aumento de la secreción de las glándulas salivales.
 
 Con respecto al potencial de acción del axón neuronal, marque la respuesta correcta:
 a) La salida de sodio determina la fase de repolarización.
-b) La fase de despolarización se produce por la entrada de sodio a la célula.
+b) La fase de despolarización se produce por la entrada de sodio a la célula.*
 c) La fase de repolarización se produce por la entrada de potasio a la célula.
 d) La fase de despolarización es producida por acción de la bomba de sodio y potasio.
 
 Los tejidos y órganos se comunican mediante la secreción de:
 a) Glándulas.
-b) Hormonas.
+b) Hormonas.*
 c) Glúcidos.
 d) Lípidos.
 
 ¿Cuál de las siguientes rutas metabólicas ocurre en la membrana mitocondrial?
 a) glucólisis
 b) ciclo de Krebs
-c) cadena respiratoria
+c) cadena respiratoria*
 d) piruvato deshidrogena
 
 La glucólisis es una vía fundamental del metabolismo celular. El objetivo de la vía es:
-a) Degradar glucosa.
+a) Degradar glucosa.*
 b) Sintetizar glucosa.
 c) Sintetizar glucógeno.
 d) Degradar ácidos grasos.
@@ -223,17 +223,17 @@ d) Degradar ácidos grasos.
 Acerca del mecanismo de acción de las hormonas hidrosolubles:
 a) Ingresan al núcleo actuando sobre el ADN celular
 b) Ingresan a la mitocondria y se unen a la membrana mitocondrial
-c) Requiere de la unión a un receptor en la membrana de la célula diana
+c) Requiere de la unión a un receptor en la membrana de la célula diana*
 d) Requieren de la unión a un receptor lipídico en el citosol de la célula diana.
 
 ¿Cuál es la primera respuesta que se activa frente a la infección por un agente patógeno?
 a) Los neutrófilos, basófilos y eosinófilos
 b) La respuesta adaptativa
 c) Los linfocitos B y T
-d) La respuesta innata
+d) La respuesta innata*
 
 El sistema inmune adaptativo, formado principalmente por la respuesta de Linfocitos B y T, se caracteriza por:
-a) ser más eficiente frente a una infección repetitiva
+a) ser más eficiente frente a una infección repetitiva*
 b) ser la primera respuesta frente al daño en un tejido
 c) actuar rápidamente frente a cualquier agente patógeno
 d) reconocer en forma inespecífica a los agentes patógenos

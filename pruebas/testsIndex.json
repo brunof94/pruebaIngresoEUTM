@@ -5074,7 +5074,7 @@
           },
           {
             "option": " Es la autoridad sanitaria y tiene el rol de rectoría.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Es responsable de la formación de los integrantes de los equipos de salud.",
@@ -5103,7 +5103,7 @@
           },
           {
             "option": " Extender las órdenes de pago al Fondo Nacional de Salud (FONASA",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5112,7 +5112,7 @@
         "options": [
           {
             "option": " La cápita y las metas asistenciales.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Un monto fijo según el uso del sistema.",
@@ -5133,7 +5133,7 @@
         "options": [
           {
             "option": " El estilo de vida, la biología humana, el medio ambiente y el sistema de asistencia sanitaria.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Aquellos determinantes que se relacionan con el trabajo de las personas.",
@@ -5166,7 +5166,7 @@
           },
           {
             "option": " Todo aquello que la sociedad construye colectivamente con la finalidad de mejorar las condiciones de salud y de vida de sus pobladores.",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5175,7 +5175,7 @@
         "options": [
           {
             "option": " Pueden formar interacciones débiles con sustancias polares",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Pueden formar interacciones covalentes con sustancias polares",
@@ -5196,7 +5196,7 @@
         "options": [
           {
             "option": " un átomo de oxígeno unido a dos átomos de hidrógeno no unidos entre sí",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " un átomo de oxígeno unido a dos átomos de hidrógeno unidos entre sí",
@@ -5229,7 +5229,7 @@
           },
           {
             "option": " Es una doble hélice formada por dos cadenas de nucleótidos",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5250,7 +5250,7 @@
           },
           {
             "option": " guaninas (G",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5271,7 +5271,7 @@
           },
           {
             "option": " 10 N",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5284,7 +5284,7 @@
           },
           {
             "option": " disolver 40 gramos de NaOH en 500 mL de solución",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " disolver 80 gramos de NaOH en 2 L de solución",
@@ -5305,7 +5305,7 @@
           },
           {
             "option": " 15 g",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " 150 g",
@@ -5322,7 +5322,7 @@
         "options": [
           {
             "option": " 2,3",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " 7,0",
@@ -5347,7 +5347,7 @@
           },
           {
             "option": " Una molécula capaz de ceder protones.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Una molécula capaz de aceptar protones",
@@ -5368,7 +5368,7 @@
           },
           {
             "option": " Con un pH mayor a 7",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Con un pH igual a 7",
@@ -5389,7 +5389,7 @@
           },
           {
             "option": " enlace covalente",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " interacción hidrofóbica",
@@ -5414,7 +5414,7 @@
           },
           {
             "option": " Nitrógeno",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Hidrógeno",
@@ -5439,7 +5439,7 @@
           },
           {
             "option": " Ácidos nucleicos",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5460,7 +5460,7 @@
           },
           {
             "option": " Hhidróxido de potasio",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5477,7 +5477,7 @@
           },
           {
             "option": " Colesterol",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Adenosil tri fosfato (ATP",
@@ -5491,7 +5491,7 @@
         "options": [
           {
             "option": " Lípidos",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Glúcidos",
@@ -5524,7 +5524,7 @@
           },
           {
             "option": " interacción hidrofóbica",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5545,7 +5545,7 @@
           },
           {
             "option": " Como polímeros de glucosa.",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5554,7 +5554,7 @@
         "options": [
           {
             "option": " Poseen una doble membrana",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Se localizan en el núcleo de las células eucariotas.",
@@ -5583,7 +5583,7 @@
           },
           {
             "option": " La válvula aórtica se abre durante la sístole ventricular.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Durante la diástole se cierra la válvula auriculoventricular.",
@@ -5604,7 +5604,7 @@
           },
           {
             "option": " Actuar como marcapasos del corazón.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Transmitir señales al sistema nervioso simpático.",
@@ -5625,7 +5625,7 @@
           },
           {
             "option": " Aumento en la reabsorción de sodio.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Disminución en la reabsorción de agua.",
@@ -5638,7 +5638,7 @@
         "options": [
           {
             "option": " Producir bilis.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Almacenar glucógeno.",
@@ -5663,7 +5663,7 @@
           },
           {
             "option": " Amilasas",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Proteasas",
@@ -5688,7 +5688,7 @@
           },
           {
             "option": " Los hepatocitos son células epiteliales especializadas",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " La sangre circula desde la vena central hacia la tríada portal",
@@ -5701,7 +5701,7 @@
         "options": [
           {
             "option": " Contiene igual información genética que las células epiteliales del mismo individuo",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Contiene la mitad de la información genética necesaria para generar un individuo",
@@ -5730,7 +5730,7 @@
           },
           {
             "option": " La ovulación ocurre debido a un aumento abrupto de LH y FSH.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Durante la fase lútea, la progesterona se encuentra en niveles bajos.",
@@ -5751,7 +5751,7 @@
           },
           {
             "option": " Aumento en la frecuencia cardíaca.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Aumento de la secreción de las glándulas salivales.",
@@ -5768,7 +5768,7 @@
           },
           {
             "option": " La fase de despolarización se produce por la entrada de sodio a la célula.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " La fase de repolarización se produce por la entrada de potasio a la célula.",
@@ -5789,7 +5789,7 @@
           },
           {
             "option": " Hormonas.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Glúcidos.",
@@ -5814,7 +5814,7 @@
           },
           {
             "option": " cadena respiratoria",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " piruvato deshidrogena",
@@ -5827,7 +5827,7 @@
         "options": [
           {
             "option": " Degradar glucosa.",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Sintetizar glucosa.",
@@ -5856,7 +5856,7 @@
           },
           {
             "option": " Requiere de la unión a un receptor en la membrana de la célula diana",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " Requieren de la unión a un receptor lipídico en el citosol de la célula diana.",
@@ -5881,7 +5881,7 @@
           },
           {
             "option": " La respuesta innata",
-            "isCorrect": false
+            "isCorrect": true
           }
         ]
       },
@@ -5890,7 +5890,7 @@
         "options": [
           {
             "option": " ser más eficiente frente a una infección repetitiva",
-            "isCorrect": false
+            "isCorrect": true
           },
           {
             "option": " ser la primera respuesta frente al daño en un tejido",
