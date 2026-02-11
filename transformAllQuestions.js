@@ -16,17 +16,22 @@ files.forEach(file => {
   const content = fs.readFileSync(questionPath, 'utf-8').split('\n');
 
   const questions = [];
+  const questionImages = [];
   let currentQuestion = null;
 
   content.forEach(line => {
     line = line.trim();
     if (line === '') {
       if (currentQuestion) {
+        if(questionImages.includes(questions.length + 1))currentQuestion.image = questions.length + 1;
         questions.push(currentQuestion);
         currentQuestion = null;
       }
     } else if (!currentQuestion) {
-      currentQuestion = { question: line, options: [] };
+      const hasImage = line.indexOf('(img)') >= 0;
+      if (hasImage) questionImages.push(questions.length + 1);
+      const q = line.replace('(img)', '').trim();
+      currentQuestion = { question: q, options: [] };
     } else {
       const isCorrect = line.indexOf('*') >= 0;
       const option = line.replace('*', '').trim().split(')')[1];

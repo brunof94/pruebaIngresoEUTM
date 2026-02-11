@@ -1,0 +1,848 @@
+{
+  "nombre": "Prueba de ingreso 2025b",
+  "codigo": "ingreso2025b",
+  "area": "todas",
+  "preguntas": [
+    {
+      "question": "Acerca del rol del Ministerio de Salud en el Sistema Nacional Integrado de Salud (SNIS)",
+      "options": [
+        {
+          "option": " Es uno más de los prestadores integrales de salud.",
+          "isCorrect": false
+        },
+        {
+          "option": " Es la autoridad sanitaria y tiene el rol de rectoría.",
+          "isCorrect": false
+        },
+        {
+          "option": " Es responsable de la formación de los integrantes de los equipos de salud.",
+          "isCorrect": false
+        },
+        {
+          "option": " Es responsable de la prestación de asistencia médica en el sector público.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La Junta Nacional de Salud (JUNASA) tiene entre sus funciones:",
+      "options": [
+        {
+          "option": " Ejercer la fármaco vigilancia",
+          "isCorrect": false
+        },
+        {
+          "option": " Ejercer la vigilancia epidemiológica.",
+          "isCorrect": false
+        },
+        {
+          "option": " Definir políticas de salud para el país.",
+          "isCorrect": false
+        },
+        {
+          "option": " Extender las órdenes de pago al Fondo Nacional de Salud (FONASA",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La “cuota salud” que se le paga a los prestadores integrales del Sistema Nacional Integrado de Salud (SNIS) está compuesta por:",
+      "options": [
+        {
+          "option": " La cápita y las metas asistenciales.",
+          "isCorrect": false
+        },
+        {
+          "option": " Un monto fijo según el uso del sistema.",
+          "isCorrect": false
+        },
+        {
+          "option": " Un monto variable según los hábitos de las personas..",
+          "isCorrect": false
+        },
+        {
+          "option": " La cápita y un monto según el número de dependientes (hijos y conyugues",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En la década de 1970 Marc Lalonde propuso que el nivel de salud de una comunidad está influido por grandes grupos de circunstancias o determinantes. ¿Cuáles son estos determinantes?",
+      "options": [
+        {
+          "option": " El estilo de vida, la biología humana, el medio ambiente y el sistema de asistencia sanitaria.",
+          "isCorrect": false
+        },
+        {
+          "option": " Aquellos determinantes que se relacionan con el trabajo de las personas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las condiciones climáticas y las emociones.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las emociones y la biología humana.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En términos amplios, la “salud pública” puede entenderse como:",
+      "options": [
+        {
+          "option": " El completo estado de bienestar físico, mental y social.",
+          "isCorrect": false
+        },
+        {
+          "option": " Las circunstancias en que las personas desarrollan su actividad laboral.",
+          "isCorrect": false
+        },
+        {
+          "option": " La disciplina científica que aborda las situaciones de salud de las personas en términos individuales.",
+          "isCorrect": false
+        },
+        {
+          "option": " Todo aquello que la sociedad construye colectivamente con la finalidad de mejorar las condiciones de salud y de vida de sus pobladores.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "El agua es el solvente universal porque las moléculas de agua:",
+      "options": [
+        {
+          "option": " Pueden formar interacciones débiles con sustancias polares",
+          "isCorrect": false
+        },
+        {
+          "option": " Pueden formar interacciones covalentes con sustancias polares",
+          "isCorrect": false
+        },
+        {
+          "option": " Pueden formar interacciones hidrofóbicas con sustancias polares.",
+          "isCorrect": false
+        },
+        {
+          "option": " Pueden formar interacciones débiles con sustancias hidrofóbicas.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La molécula de agua está formada de la siguiente manera:",
+      "options": [
+        {
+          "option": " un átomo de oxígeno unido a dos átomos de hidrógeno no unidos entre sí",
+          "isCorrect": false
+        },
+        {
+          "option": " un átomo de oxígeno unido a dos átomos de hidrógeno unidos entre sí",
+          "isCorrect": false
+        },
+        {
+          "option": " dos átomos de oxígeno unidos por un átomo de hidrógeno",
+          "isCorrect": false
+        },
+        {
+          "option": " dos átomos de oxígeno unidos a dos átomos de hidrógeno",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones describe correctamente la estructura del ADN?",
+      "options": [
+        {
+          "option": " Es una hélice simple formada por una cadena de aminoácidos",
+          "isCorrect": false
+        },
+        {
+          "option": " Es una hélice simple formada por una cadena de nucleótidos",
+          "isCorrect": false
+        },
+        {
+          "option": " Es una doble hélice formada por dos cadenas de aminoácidos",
+          "isCorrect": false
+        },
+        {
+          "option": " Es una doble hélice formada por dos cadenas de nucleótidos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "En una molécula de ADN la cantidad de:",
+      "options": [
+        {
+          "option": " adeninas (es igual a la de uracilos (U",
+          "isCorrect": false
+        },
+        {
+          "option": " adeninas (es igual a la de guaninas (G",
+          "isCorrect": false
+        },
+        {
+          "option": " guaninas (G",
+          "isCorrect": false
+        },
+        {
+          "option": " guaninas (G",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es la normalidad de una solución que se forma por la mezcla de 1 mol de HCl en 100 mL de agua?",
+      "options": [
+        {
+          "option": " 0,5 N",
+          "isCorrect": false
+        },
+        {
+          "option": " 1 N",
+          "isCorrect": false
+        },
+        {
+          "option": " 2 N",
+          "isCorrect": false
+        },
+        {
+          "option": " 10 N",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Indique cuál de las siguientes acciones permite preparar una solución de NaOH 2 M: Dato: masa molar NaOH = 40 g/mol",
+      "options": [
+        {
+          "option": " disolver 40 gramos de NaOH en 1 L de solución",
+          "isCorrect": false
+        },
+        {
+          "option": " disolver 40 gramos de NaOH en 500 mL de solución",
+          "isCorrect": false
+        },
+        {
+          "option": " disolver 80 gramos de NaOH en 2 L de solución",
+          "isCorrect": false
+        },
+        {
+          "option": " disolver 80 gramos de NaOH en 100 ml de solución",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Indique cuál es la masa de glucosa necesaria para preparar 100 mL de una solución 15% m/V, sabiendo que “% m/V” expresa los gramos de soluto en 100 mL de solución:",
+      "options": [
+        {
+          "option": " 1,5 g",
+          "isCorrect": false
+        },
+        {
+          "option": " 15 g",
+          "isCorrect": false
+        },
+        {
+          "option": " 150 g",
+          "isCorrect": false
+        },
+        {
+          "option": " 1500 g",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es el pH de una solución de ácido clorhídrico (HCl) 0,005 M?",
+      "options": [
+        {
+          "option": " 2,3",
+          "isCorrect": false
+        },
+        {
+          "option": " 7,0",
+          "isCorrect": false
+        },
+        {
+          "option": " 9,0",
+          "isCorrect": false
+        },
+        {
+          "option": " 11,7",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Un ácido es:",
+      "options": [
+        {
+          "option": " Una molécula que no presenta H+",
+          "isCorrect": false
+        },
+        {
+          "option": " Una molécula capaz de ceder protones.",
+          "isCorrect": false
+        },
+        {
+          "option": " Una molécula capaz de aceptar protones",
+          "isCorrect": false
+        },
+        {
+          "option": " Una molécula capaz de ceder y aceptar protones al mismo tiempo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Una solución básica es una solución:",
+      "options": [
+        {
+          "option": " Con un pH menor a 7.",
+          "isCorrect": false
+        },
+        {
+          "option": " Con un pH mayor a 7",
+          "isCorrect": false
+        },
+        {
+          "option": " Con un pH igual a 7",
+          "isCorrect": false
+        },
+        {
+          "option": " Que no posee pH.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de enlace une los aminoácidos que constituyen la estructura primaria de una proteína?",
+      "options": [
+        {
+          "option": " enlace iónico",
+          "isCorrect": false
+        },
+        {
+          "option": " enlace covalente",
+          "isCorrect": false
+        },
+        {
+          "option": " interacción hidrofóbica",
+          "isCorrect": false
+        },
+        {
+          "option": " enlaces de hidrógeno",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Qué átomo NO forma parte de la composición de los monosacáridos?",
+      "options": [
+        {
+          "option": " Carbono",
+          "isCorrect": false
+        },
+        {
+          "option": " Oxígeno",
+          "isCorrect": false
+        },
+        {
+          "option": " Nitrógeno",
+          "isCorrect": false
+        },
+        {
+          "option": " Hidrógeno",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿En qué biomolécula radica la información hereditaria?",
+      "options": [
+        {
+          "option": " Lípidos",
+          "isCorrect": false
+        },
+        {
+          "option": " Proteínas",
+          "isCorrect": false
+        },
+        {
+          "option": " Carbohidratos",
+          "isCorrect": false
+        },
+        {
+          "option": " Ácidos nucleicos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes moléculas NO es una biomolécula?",
+      "options": [
+        {
+          "option": " Glucosa",
+          "isCorrect": false
+        },
+        {
+          "option": " Triglicérido",
+          "isCorrect": false
+        },
+        {
+          "option": " Hemoglobina",
+          "isCorrect": false
+        },
+        {
+          "option": " Hhidróxido de potasio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Qué molécula se observa en la figura?",
+      "options": [
+        {
+          "option": " Tiamina",
+          "isCorrect": false
+        },
+        {
+          "option": " Sacarosa",
+          "isCorrect": false
+        },
+        {
+          "option": " Colesterol",
+          "isCorrect": false
+        },
+        {
+          "option": " Adenosil tri fosfato (ATP",
+          "isCorrect": false
+        }
+      ],
+      "image": 20
+    },
+    {
+      "question": "Los ácidos grasos integran el siguiente grupo de biomoléculas:",
+      "options": [
+        {
+          "option": " Lípidos",
+          "isCorrect": false
+        },
+        {
+          "option": " Glúcidos",
+          "isCorrect": false
+        },
+        {
+          "option": " Proteínas",
+          "isCorrect": false
+        },
+        {
+          "option": " Ácidos nucleicos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuáles son los principales enlaces que unen los fosfolípidos que constituyen una membrana celular?",
+      "options": [
+        {
+          "option": " enlace iónico",
+          "isCorrect": false
+        },
+        {
+          "option": " enlace covalente",
+          "isCorrect": false
+        },
+        {
+          "option": " enlaces de hidrógeno",
+          "isCorrect": false
+        },
+        {
+          "option": " interacción hidrofóbica",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo se almacenan los glúcidos en el músculo?",
+      "options": [
+        {
+          "option": " Como polímeros de ácidos grasos.",
+          "isCorrect": false
+        },
+        {
+          "option": " Como polímeros de aminoácidos.",
+          "isCorrect": false
+        },
+        {
+          "option": " Como monómeros de glucosa.",
+          "isCorrect": false
+        },
+        {
+          "option": " Como polímeros de glucosa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto a la mitocondria, indique la opción correcta:",
+      "options": [
+        {
+          "option": " Poseen una doble membrana",
+          "isCorrect": false
+        },
+        {
+          "option": " Se localizan en el núcleo de las células eucariotas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Es un organelo característico de células procariotas",
+          "isCorrect": false
+        },
+        {
+          "option": " Es el principal sitio de síntesis de proteínas celulares",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al ciclo cardíaco, indique la opción correcta:",
+      "options": [
+        {
+          "option": " La válvula pulmonar se abre durante la diástole",
+          "isCorrect": false
+        },
+        {
+          "option": " La válvula mitral se abre al comienzo de la sístole.",
+          "isCorrect": false
+        },
+        {
+          "option": " La válvula aórtica se abre durante la sístole ventricular.",
+          "isCorrect": false
+        },
+        {
+          "option": " Durante la diástole se cierra la válvula auriculoventricular.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La función principal del nodo sinoauricular es:",
+      "options": [
+        {
+          "option": " Contraer las aurículas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Regular la presión arterial",
+          "isCorrect": false
+        },
+        {
+          "option": " Actuar como marcapasos del corazón.",
+          "isCorrect": false
+        },
+        {
+          "option": " Transmitir señales al sistema nervioso simpático.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Una disminución de la presión arterial lleva a un aumento en la secreción de aldosterona, generando el siguiente efecto sobre la fisiología del riñón:",
+      "options": [
+        {
+          "option": " Aumento en la excreción de agua.",
+          "isCorrect": false
+        },
+        {
+          "option": " Aumento en la excreción de sodio.",
+          "isCorrect": false
+        },
+        {
+          "option": " Aumento en la reabsorción de sodio.",
+          "isCorrect": false
+        },
+        {
+          "option": " Disminución en la reabsorción de agua.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal función del hígado en el metabolismo de los lípidos?",
+      "options": [
+        {
+          "option": " Producir bilis.",
+          "isCorrect": false
+        },
+        {
+          "option": " Almacenar glucógeno.",
+          "isCorrect": false
+        },
+        {
+          "option": " Generar eritropoyetina.",
+          "isCorrect": false
+        },
+        {
+          "option": " Sintetizar hormonas tiroideas.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Qué enzimas digestivas llevan a cabo la digestión de los polisacáridos?",
+      "options": [
+        {
+          "option": " Lipasas",
+          "isCorrect": false
+        },
+        {
+          "option": " Amilasas",
+          "isCorrect": false
+        },
+        {
+          "option": " Proteasas",
+          "isCorrect": false
+        },
+        {
+          "option": " Estearasas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al hígado, indique la opción correcta:",
+      "options": [
+        {
+          "option": " Las células de Kupffer sintetizan la bilis",
+          "isCorrect": false
+        },
+        {
+          "option": " Los sinusoides hepáticos conducen la bilis",
+          "isCorrect": false
+        },
+        {
+          "option": " Los hepatocitos son células epiteliales especializadas",
+          "isCorrect": false
+        },
+        {
+          "option": " La sangre circula desde la vena central hacia la tríada portal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al óvulo humano y su contenido genético indique la opción correcta:",
+      "options": [
+        {
+          "option": " Contiene igual información genética que las células epiteliales del mismo individuo",
+          "isCorrect": false
+        },
+        {
+          "option": " Contiene la mitad de la información genética necesaria para generar un individuo",
+          "isCorrect": false
+        },
+        {
+          "option": " Contiene el mismo número de cromosomas que una célula somática.",
+          "isCorrect": false
+        },
+        {
+          "option": " Contiene 46 cromosomas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al ciclo sexual femenino, señale la opción correcta:",
+      "options": [
+        {
+          "option": " El pico de LH ocurre en la fase folicular temprana.",
+          "isCorrect": false
+        },
+        {
+          "option": " Los estrógenos sólo se producen durante la fase lútea.",
+          "isCorrect": false
+        },
+        {
+          "option": " La ovulación ocurre debido a un aumento abrupto de LH y FSH.",
+          "isCorrect": false
+        },
+        {
+          "option": " Durante la fase lútea, la progesterona se encuentra en niveles bajos.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de estos efectos se produce por la activación del sistema nervioso simpático?",
+      "options": [
+        {
+          "option": " Broncoconstricción.",
+          "isCorrect": false
+        },
+        {
+          "option": " Contracción de las pupilas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Aumento en la frecuencia cardíaca.",
+          "isCorrect": false
+        },
+        {
+          "option": " Aumento de la secreción de las glándulas salivales.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Con respecto al potencial de acción del axón neuronal, marque la respuesta correcta:",
+      "options": [
+        {
+          "option": " La salida de sodio determina la fase de repolarización.",
+          "isCorrect": false
+        },
+        {
+          "option": " La fase de despolarización se produce por la entrada de sodio a la célula.",
+          "isCorrect": false
+        },
+        {
+          "option": " La fase de repolarización se produce por la entrada de potasio a la célula.",
+          "isCorrect": false
+        },
+        {
+          "option": " La fase de despolarización es producida por acción de la bomba de sodio y potasio.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Los tejidos y órganos se comunican mediante la secreción de:",
+      "options": [
+        {
+          "option": " Glándulas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Hormonas.",
+          "isCorrect": false
+        },
+        {
+          "option": " Glúcidos.",
+          "isCorrect": false
+        },
+        {
+          "option": " Lípidos.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes rutas metabólicas ocurre en la membrana mitocondrial?",
+      "options": [
+        {
+          "option": " glucólisis",
+          "isCorrect": false
+        },
+        {
+          "option": " ciclo de Krebs",
+          "isCorrect": false
+        },
+        {
+          "option": " cadena respiratoria",
+          "isCorrect": false
+        },
+        {
+          "option": " piruvato deshidrogena",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "La glucólisis es una vía fundamental del metabolismo celular. El objetivo de la vía es:",
+      "options": [
+        {
+          "option": " Degradar glucosa.",
+          "isCorrect": false
+        },
+        {
+          "option": " Sintetizar glucosa.",
+          "isCorrect": false
+        },
+        {
+          "option": " Sintetizar glucógeno.",
+          "isCorrect": false
+        },
+        {
+          "option": " Degradar ácidos grasos.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Acerca del mecanismo de acción de las hormonas hidrosolubles:",
+      "options": [
+        {
+          "option": " Ingresan al núcleo actuando sobre el ADN celular",
+          "isCorrect": false
+        },
+        {
+          "option": " Ingresan a la mitocondria y se unen a la membrana mitocondrial",
+          "isCorrect": false
+        },
+        {
+          "option": " Requiere de la unión a un receptor en la membrana de la célula diana",
+          "isCorrect": false
+        },
+        {
+          "option": " Requieren de la unión a un receptor lipídico en el citosol de la célula diana.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es la primera respuesta que se activa frente a la infección por un agente patógeno?",
+      "options": [
+        {
+          "option": " Los neutrófilos, basófilos y eosinófilos",
+          "isCorrect": false
+        },
+        {
+          "option": " La respuesta adaptativa",
+          "isCorrect": false
+        },
+        {
+          "option": " Los linfocitos B y T",
+          "isCorrect": false
+        },
+        {
+          "option": " La respuesta innata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "El sistema inmune adaptativo, formado principalmente por la respuesta de Linfocitos B y T, se caracteriza por:",
+      "options": [
+        {
+          "option": " ser más eficiente frente a una infección repetitiva",
+          "isCorrect": false
+        },
+        {
+          "option": " ser la primera respuesta frente al daño en un tejido",
+          "isCorrect": false
+        },
+        {
+          "option": " actuar rápidamente frente a cualquier agente patógeno",
+          "isCorrect": false
+        },
+        {
+          "option": " reconocer en forma inespecífica a los agentes patógenos",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
