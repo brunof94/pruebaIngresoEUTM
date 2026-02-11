@@ -5061,6 +5061,854 @@ const tests = [
         ]
     },
     {
+        "nombre": "Prueba de ingreso 2025 2a",
+        "codigo": "ingreso2025a2",
+        "area": "todas",
+        "preguntas": [
+            {
+                "question": "¿Qué unidades forman las proteínas?",
+                "options": [
+                    {
+                        "option": " Nucleótidos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aminoácidos",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Ácidos grasos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Monosacáridos",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tipo de macromolécula está constituida por nucleótidos?",
+                "options": [
+                    {
+                        "option": " Lípidos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Glúcidos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Proteínas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Ácidos nucleicos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué molécula se observa en la figura?",
+                "options": [
+                    {
+                        "option": " Glucosa",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Tiamina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Colesterol",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Adenosil tri fosfato (ATP",
+                        "isCorrect": false
+                    }
+                ],
+                "image": 3
+            },
+            {
+                "question": "¿Cómo se almacenan los lípidos en el organismo para almacenar energía?",
+                "options": [
+                    {
+                        "option": " Como almidón",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Como proteínas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Como glucógeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Como triglicéridos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué combinación de bases nitrogenadas es correcta en el ADN?",
+                "options": [
+                    {
+                        "option": " Adenina con citosina, guanina con timina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Adenina con guanina, citosina con timina.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Adenina con timina, citosina con guanina.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Adenina con uracilo, citosina con guanina.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Sobre la conformación de la molécula de ADN, marque la opción correcta:",
+                "options": [
+                    {
+                        "option": " Las bases nitrogenadas se ubican en el exterior de la molécula y los grupos fosfatos en el interior.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El orden de las bases nitrogenadas determina la información genética.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Está formada por una única cadena de nucleótidos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Está constituida por 5 nucleótidos diferentes.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuántos átomos forman una molécula de agua?",
+                "options": [
+                    {
+                        "option": " uno",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " dos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " tres",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " cuatro",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es el tipo de enlace que mantiene unidos los átomos que forman la molécula de agua?",
+                "options": [
+                    {
+                        "option": " enlace covalente",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " interacción iónica",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " enlace de hidrógeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " interacción dipolo-dipolo",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué tipo de enlace pueden formar las moléculas de agua entre sí?",
+                "options": [
+                    {
+                        "option": " Enlace iónico.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Enlace de hidrógeno.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Enlace covalente doble.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Enlace covalente simple.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En la molécula de agua el átomo de oxígeno presenta una mayor electronegatividad que los átomos de hidrógeno. Esto lleva a que la molécula de agua sea considerada una molécula:",
+                "options": [
+                    {
+                        "option": " polar",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " lineal",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " apolar",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " hidrofóbica",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es el tipo de interacción que se genera entre un átomo de Na+ la molécula de agua?",
+                "options": [
+                    {
+                        "option": " enlace covalente",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " enlace de hidrógeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " interacción dipolo-ión",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " interacción hidrofóbica",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Una solución de pH 2 es una solución:",
+                "options": [
+                    {
+                        "option": " Ácida",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Básica",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Neutra",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Con baja concentración de H+.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Una base es:",
+                "options": [
+                    {
+                        "option": " Una molécula que presenta H+",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una molécula capaz de ceder protones.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Una molécula capaz de aceptar protones",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Una molécula capaz de ceder y aceptar protones al mismo tiempo.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es el pH de una solución de hidróxido de sodio (NaOH) 0,003 M?",
+                "options": [
+                    {
+                        "option": " 3,1",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 4,0",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 7,0",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 11,5",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Indique cuál es la molaridad de la glucosa en una solución que se prepara disolviendo 54 gramos de glucosa en un volumen final de 100 mL. Dato: masa molar glucosa = 180 g/mol",
+                "options": [
+                    {
+                        "option": " 0,15 M",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 0,3 M",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 1,5 M",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 3,0 M",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "¿En qué volumen de solución se deben disolver 20 gramos de NaCl para obtener una solución 10% m/v sabiendo que “% m/V” expresa los gramos de soluto en 100 mL de solución?",
+                "options": [
+                    {
+                        "option": " 50 ml",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 100 ml",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 200 ml",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " 2000 ml",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es la normalidad de una solución que se forma por la mezcla de 2 moles de NaOH en 1 litro de agua?",
+                "options": [
+                    {
+                        "option": " 1 N",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 2 N",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " 3 N",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " 6 N",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto al sistema nervioso autónomo, marque la opción correcta:",
+                "options": [
+                    {
+                        "option": " El sistema simpático se activa principalmente en situaciones de estrés.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La acetilcolina es el neurotransmisor principal del sistema simpático.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El sistema parasimpático aumenta la frecuencia cardíaca.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El sistema parasimpático inhibe la actividad digestiva.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de las siguientes hormonas es producida por la hipófisis?",
+                "options": [
+                    {
+                        "option": " Insulina",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Glucagón",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Oxitocina",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Hormona de crecimiento (GH",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto al potencial de acción en el axón de la neurona, marque la opción correcta:",
+                "options": [
+                    {
+                        "option": " La salida de sodio determina la fase de despolarización.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La salida de potasio determina la fase de repolarización.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Es consecuencia del movimiento de sodio y potasio a través de la bomba de sodio potasio.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Cuanto mayor sea la amplitud del estímulo que lo genera mayor será la amplitud del potencial de acción.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál es el tejido cardíaco que permite que el corazón se contraiga?",
+                "options": [
+                    {
+                        "option": " Epitelio",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Miocardio",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Pericardio",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Endocardio",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "La fase de llenado ventricular ocurre durante:",
+                "options": [
+                    {
+                        "option": " La sístole",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La diástole",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " La eyección sanguínea",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La contracción auricular",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué ocurre cuando disminuye la presión de oxígeno en los alvéolos pulmonares?",
+                "options": [
+                    {
+                        "option": " Se reduce la frecuencia respiratoria.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumenta el aporte de oxígeno a los tejidos.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Aumenta la difusión de oxígeno a la sangre.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Disminuye el transporte de oxígeno por la hemoglobina.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a la presión arterial, indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " La presión arterial es igual en todas las partes del cuerpo.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La presión arterial es mayor en las venas que en las arterias.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La presión diastólica ocurre durante la contracción ventricular.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La presión arterial sistólica corresponde a la fase de eyección del corazón.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "En relación a los gametos, es correcto que:",
+                "options": [
+                    {
+                        "option": " Contienen 46 cromosomas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se producen en un proceso llamado mitosis.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Contienen la mitad de ADN que una célula somática.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Todos los gametos que se forman en un individuo son genéticamente idénticos.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a los espermatozoides, indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " Carecen de ADN",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " No poseen mitocondrias",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se forman a partir de la pubertad",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Se almacenan en las vesículas seminales",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Los triglicéridos se degradan para obtener energía. ¿Qué enzimas digestivas lo degradan?",
+                "options": [
+                    {
+                        "option": " Lipasas",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Amilasas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Proteasas",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Estearasas",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿A qué tipo de sistema pertenecen los hepatocitos?",
+                "options": [
+                    {
+                        "option": " Sistema digestivo",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Sistema nervioso",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Sistema cardíaco",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Sistema respiratorio",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Qué células intervienen en ingerir y destruir los agentes patógenos y deshacerse de los tejidos dañados?",
+                "options": [
+                    {
+                        "option": " Basófilos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Neutrófilos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Eosinófilos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Macrófagos",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Con respecto a los mastocitos, indique la opción correcta:",
+                "options": [
+                    {
+                        "option": " Secretan histamina",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Son multinucleados",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Circulan por la sangre",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Se encuentran en los epitelios.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "El sistema inmune innato:",
+                "options": [
+                    {
+                        "option": " Es específico para cada agente patógeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Constituye la primera línea de defensa, actuando de manera rápida",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Es más eficaz frente a infecciones repetitivas ya que tiene memoria",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Su principal componente son los anticuerpos que unen antígenos particulares del agente infeccioso.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Las células pueden responder a hormonas porque presentan:",
+                "options": [
+                    {
+                        "option": " Un receptor para la hormona",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Una glándula para la hormona",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un transportador para la hormona",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Un segundo mensajero para la hormona",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Acerca del mecanismo de acción de las hormonas liposolubles:",
+                "options": [
+                    {
+                        "option": " Generan la activación de un segundo mensajero: el AMPc.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Actúan por unión a un receptor ubicado en la membrana nuclear",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Pueden atravesar libremente la membrana plasmática de la célula diana.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Actúan por unión a un receptor específico presente en la membrana plasmática de la célula diana.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Las células obtienen energía degradando la glucosa y la conservan como:",
+                "options": [
+                    {
+                        "option": " adenosin difosfato (ADP",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " adenosín trifosfato (ATP",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " adenosin monofosfato (AMP",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " guanosin monofosfato (GMP",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "¿Cuál de las siguientes reacciones forma parte del ciclo de Krebs?",
+                "options": [
+                    {
+                        "option": " Reducción del O2 a H20",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Reducción del FADH2 a FAD+",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Reducción del NAD+ a NADH.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Reducción del piruvato a acetilCoA.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "Desde el enfoque de la “promoción de la salud” se busca llevar adelante acciones que contribuyan a:",
+                "options": [
+                    {
+                        "option": " Aumentar la cobertura vacunal de la población.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Las interacciones de las personas entre sí.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El lugar que las personas ocupan en los distintos grupos que configuran a una sociedad.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " El empoderamiento de las personas con respecto a su propia salud y la de la comunidad en la que desarrollan su vida cotidiana.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "Los “determinantes de los estilos de vida” son aquellos determinantes que se relacionan con:",
+                "options": [
+                    {
+                        "option": " Las características biológicas heredadas por cada persona.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Hábitos, patrones o formas de comportamiento de las personas.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Las características del medio ambiente que rodean a las personas.",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " La respuesta organizada y especializada de la sociedad para la atención a la salud.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación a la atención a la salud que brindan los prestadores integrales que integran el Sistema Nacional Integrado de Salud (SNIS)",
+                "options": [
+                    {
+                        "option": " Debe ser la que cada afiliado pueda pagar",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Debe ser la que acuerdan los prestadores públicos",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Debe ser la que cada prestador define como necesaria para sus usuarios",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Debe ser la que está definida en el Plan Integral de Atención en Salud (PIAS",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "question": "El Fondo Nacional de Recursos tiene por objetivo:",
+                "options": [
+                    {
+                        "option": " Definir cuáles serán las pesquisas neonatales obligatorias",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Brindar cobertura asistencial a los usuarios del subsector público",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Brindar cobertura financiera a procedimientos de alta complejidad y baja prevalencia.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Brindar cobertura financiera a procedimientos de baja complejidad y alta prevalencia.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "question": "En relación a la atención a la salud que brindan los prestadores que forman parte del Sistema Nacional Integrado de Salud (SNIS)",
+                "options": [
+                    {
+                        "option": " Debe ser integral.",
+                        "isCorrect": true
+                    },
+                    {
+                        "option": " Puede ser la que defina cada prestador",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Puede ser la que elija cada usuario de un menú de opciones",
+                        "isCorrect": false
+                    },
+                    {
+                        "option": " Puede ser solo atención de emergencias o de situaciones especiales como un embarazo",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "nombre": "Prueba de ingreso 2025b",
         "codigo": "ingreso2025b",
         "area": "todas",
